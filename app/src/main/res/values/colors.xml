@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorme">#000000</color>
+    <color name="colorWhite">#fcfcfc</color>
+    <color name="primary_600">#faf8f8</color>
+    <color name="primary">#4dd2f7</color>
+    <color name="saydam">#7cffffff</color>
+    <color name="sky_blue">#000000</color>
+</resources>

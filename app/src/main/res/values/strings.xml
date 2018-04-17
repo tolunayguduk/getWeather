@@ -1,0 +1,2479 @@
+<resources>
+    <string name="app_name">HavaAutoCom</string>
+    <string-array name="sehirler_array">
+
+        <item>Bankura,IND</item>
+        <item>Baoding,CHN</item>
+        <item>Baoji,CHN</item>
+        <item>Baoshan,Yunnan Baoshan,CHN</item>
+        <item>Baotou,CHN</item>
+        <item>Barakaldo,ESP</item>
+        <item>Baraki,Algiers Baraki,ALG</item>
+        <item>Baranagar,IND</item>
+        <item>Baranovichi,BLR</item>
+        <item>Barbacena,BRA</item>
+        <item>Barcelona,Anzoátegui Barcelona,VEN</item>
+        <item>Barcelona,ESP</item>
+        <item>Bardhaman,IND</item>
+        <item>Bareilly,IND</item>
+        <item>Bari,ITA</item>
+        <item>Barika,ALG</item>
+        <item>Barinas,Barinas Barinas,VEN</item>
+        <item>Barisal,BGD</item>
+        <item>Barnaul,RUS</item>
+        <item>Barquisimeto,VEN</item>
+        <item>Barra Mansa,BRA</item>
+        <item>Barrackpur,IND</item>
+        <item>Barrancabermeja,COL</item>
+        <item>Barranquilla,COL</item>
+        <item>Barreiras,BRA</item>
+        <item>Barretos,BRA</item>
+        <item>Barrie,CAN</item>
+        <item>Barueri,BRA</item>
+        <item>Baruta,VEN</item>
+        <item>Barysaw,BLR</item>
+        <item>Basel,CHE</item>
+        <item>Basirhat,IND</item>
+        <item>Basra,IRQ</item>
+        <item>Bat Yam,ISR</item>
+        <item>Batala,IND</item>
+        <item>Batam,IDN</item>
+        <item>Batangas City,PHL</item>
+        <item>Bataysk,RUS</item>
+        <item>Bath,Somerset Bath,UK</item>
+        <item>Bathinda,IND</item>
+        <item>Batman,Turkey Batman,TUR</item>
+        <item>Batna,Algeria Batna,ALG</item>
+        <item>Baton Rouge,Louisiana Baton Rouge,USA</item>
+        <item>Battambang,KHM</item>
+        <item>Batu (city) Batu,IDN</item>
+        <item>Batumi,GEO</item>
+        <item>Batu Pahat,MYS</item>
+        <item>Bauru,BRA</item>
+        <item>Bayambang,Pangasinan Bayambang,PHL</item>
+        <item>Bayamo,CUB</item>
+        <item>Bayamón,Puerto Rico Bayamón,PRI</item>
+        <item>Bayannur,CHN</item>
+        <item>Bayawan,PHL</item>
+        <item>Baybay,PHL</item>
+        <item>Bazhou City Bazhou,CHN</item>
+        <item>Beau-Bassin Rose-Hill Beau-Bassin,MUS</item>
+        <item>Beaumont,Texas Beaumont,USA</item>
+        <item>Beauvais,FRA</item>
+        <item>Beawar,IND</item>
+        <item>Béchar,ALG</item>
+        <item>Beed,IND</item>
+        <item>Beersheba,ISR</item>
+        <item>Bei'an,CHN</item>
+        <item>Beihai,CHN</item>
+        <item>Beijing,CHN</item>
+        <item>Beipiao,CHN</item>
+        <item>Beirut,LBN</item>
+        <item>Béjaïa,ALG</item>
+        <item>Bekasi,IDN</item>
+        <item>Belém,BRA</item>
+        <item>Belfast,GBR</item>
+        <item>Belford Roxo,BRA</item>
+        <item>Belgaum,IND</item>
+        <item>Belgorod,RUS</item>
+        <item>Belgrade,SRB</item>
+        <item>Bellary,IND</item>
+        <item>Bellevue,Washington Bellevue,USA</item>
+        <item>Bello,Antioquia Bello,COL</item>
+        <item>Belo Horizonte,BRA</item>
+        <item>Bengbu,CHN</item>
+        <item>Benghazi,LBY</item>
+        <item>Benguela,AGO</item>
+        <item>Beni Mellal,MAR</item>
+        <item>Benito Juárez Municipality,Quintana Roo Benito Juárez,MEX</item>
+        <item>Benoni,Gauteng Benoni,ZAF</item>
+        <item>Benxi,CHN</item>
+        <item>Beppu,Ōita Beppu,JPN</item>
+        <item>Berbera,SOM</item>
+        <item>Berdyansk,UKR</item>
+        <item>Berezniki,RUS</item>
+        <item>Bergamo,ITA</item>
+        <item>Bergen,NOR</item>
+        <item>Bergisch Gladbach,GER</item>
+        <item>Berhampur,IND</item>
+        <item>Berkeley,California Berkeley,USA</item>
+        <item>Berlin,GER</item>
+        <item>Bern,CHE</item>
+        <item>Besançon,FRA</item>
+        <item>Betim,BRA</item>
+        <item>Bettiah,IND</item>
+        <item>Bhadravathi,Karnataka Bhadravati,IND</item>
+        <item>Bhagalpur,IND</item>
+        <item>Bhalwal,PAK</item>
+        <item>Bharatpur,Rajasthan Bharatpur,IND</item>
+        <item>Bharatpur,Nepal Bharatpur,NPL</item>
+        <item>Bharuch,IND</item>
+        <item>Bhatpara,IND</item>
+        <item>Bhavnagar,IND</item>
+        <item>Bhilai,IND</item>
+        <item>Bhilwara,IND</item>
+        <item>Bhimavaram,IND</item>
+        <item>Bhind,IND</item>
+        <item>Bhiwandi,IND</item>
+        <item>Bhiwani,IND</item>
+        <item>Bhopal,IND</item>
+        <item>Bhubaneswar,IND</item>
+        <item>Bhuj,IND</item>
+        <item>Bhusawal,IND</item>
+        <item>Białystok,POL</item>
+        <item>Bidar,IND</item>
+        <item>Bielefeld,DEU</item>
+        <item>Bielsko-Biała,POL</item>
+        <item>Bihar Sharif,IND</item>
+        <item>Bijapur,Karnataka Bijapur,IND</item>
+        <item>Bikaner,IND</item>
+        <item>Bila Tserkva,UKR</item>
+        <item>Bilaspur,Chhattisgarh Bilaspur,IND</item>
+        <item>Bilbao,ESP</item>
+        <item>Billings,Montana Billings,USA</item>
+        <item>Biñan,PHL</item>
+        <item>Binangonan,Rizal Binangonan,PHL</item>
+        <item>Binzhou,CHN</item>
+        <item>Biratnagar,NPL</item>
+        <item>Birjand,IRN</item>
+        <item>Birmingham,GBR</item>
+        <item>Birmingham,Alabama Birmingham,USA</item>
+        <item>Bishkek,KGZ</item>
+        <item>Bislig,PHL</item>
+        <item>Biskra,ALG</item>
+        <item>Bissau,GNB</item>
+        <item>Biysk,RUS</item>
+        <item>Bizerte,TUN</item>
+        <item>Blackburn,GBR</item>
+        <item>Blackpool,GBR</item>
+        <item>Blagoveshchensk,RUS</item>
+        <item>Blantyre,MWI</item>
+        <item>Blida,ALG</item>
+        <item>Bloemfontein,ZAF</item>
+        <item>Blumenau,BRA</item>
+        <item>Bnei Brak,ISR</item>
+        <item>Boa Vista,Roraima Boa Vista,BRA</item>
+        <item>Bobo-Dioulasso,BFA</item>
+        <item>Bocaue,Bulacan Bocaue,PHL</item>
+        <item>Bochum,GER</item>
+        <item>Bogor,IDN</item>
+        <item>Bogota,COL</item>
+        <item>Bogra,BGD</item>
+        <item>Boise,Idaho Boise,USA</item>
+        <item>Bojnord,IRN</item>
+        <item>Bokaro Steel City,IND</item>
+        <item>Boksburg,ZAF</item>
+        <item>Bole,Xinjiang Bole,CHN</item>
+        <item>Bologna,ITA</item>
+        <item>Bolton,GBR</item>
+        <item>Bolzano,ITA</item>
+        <item>Boma,Democratic Republic of the Congo Boma,COD</item>
+        <item>Bonn,DEU</item>
+        <item>Bordeaux,FRA</item>
+        <item>Bordj Bou Arréridj,ALG</item>
+        <item>Bordj El Kiffan,ALG</item>
+        <item>Borujerd,IRN</item>
+        <item>Bosaso,SOM</item>
+        <item>Boston,USA</item>
+        <item>Botoșani,ROU</item>
+        <item>Botou,CHN</item>
+        <item>Botshabelo,ZAF</item>
+        <item>Bottrop,DEU</item>
+        <item>Botucatu,BRA</item>
+        <item>Bou Saâda,ALG</item>
+        <item>Bouaké,CIV</item>
+        <item>Boulder,Colorado Boulder,USA</item>
+        <item>Boulogne-Billancourt,FRA</item>
+        <item>Bourg-en-Bresse,FRA</item>
+        <item>Bournemouth,GBR</item>
+        <item>Bozhou,CHN</item>
+        <item>Bradford,GBR</item>
+        <item>Braga,PRT</item>
+        <item>Bragança Paulista,BRA</item>
+        <item>Brăila,ROU</item>
+        <item>Brampton,CAN</item>
+        <item>Brasília,BRA</item>
+        <item>Brașov,ROU</item>
+        <item>Bratislava,SVK</item>
+        <item>Bratsk,RUS</item>
+        <item>Braunschweig,GER</item>
+        <item>Brazzaville,COG</item>
+        <item>Breda,NLD</item>
+        <item>Bremen (city) Bremen,DEU</item>
+        <item>Bremerhaven,DEU</item>
+        <item>Brescia,ITA</item>
+        <item>Brest,Belarus Brest,BLR</item>
+        <item>Brest,France Brest,FRA</item>
+        <item>Bridgeport,Connecticut Bridgeport,USA</item>
+        <item>Brighton,GBR</item>
+        <item>Brisbane,AUS</item>
+        <item>Bristol,GBR</item>
+        <item>Brno,CZE</item>
+        <item>Brownsville,Texas Brownsville,USA</item>
+        <item>Bruges,BEL</item>
+        <item>Brussels,BEL</item>
+        <item>Bryansk,RUS</item>
+        <item>Bucaramanga,COL</item>
+        <item>Bucharest,ROU</item>
+        <item>Bucheon,KOR</item>
+        <item>Budapest,HUN</item>
+        <item>Budaun,IND</item>
+        <item>Buenaventura,Colombia Buenaventura,COL</item>
+        <item>Buenos Aires,ARG</item>
+        <item>Buffalo,New York Buffalo,USA</item>
+        <item>Buga,Valle del Cauca Buga,COL</item>
+        <item>Bujumbura,BDI</item>
+        <item>Bukan,IRN</item>
+        <item>Bukavu,COD</item>
+        <item>Bukhara,UZB</item>
+        <item>Bulandshahr,IND</item>
+        <item>Bulawayo,ZWE</item>
+        <item>Buôn Ma Thuột,VNM</item>
+        <item>Burao,SOM</item>
+        <item>Burbank,California Burbank,USA</item>
+        <item>Burewala,PAK</item>
+        <item>Burgas,BGR</item>
+        <item>Burgos,ESP</item>
+        <item>Burhanpur,IND</item>
+        <item>Burlington,Ontario Burlington,CAN</item>
+        <item>Burnaby,CAN</item>
+        <item>Bursa,TUR</item>
+        <item>Bury,GBR</item>
+        <item>Busan,KOR</item>
+        <item>Bushehr,IRN</item>
+        <item>Butuan,PHL</item>
+        <item>Buzău,ROU</item>
+        <item>Bydgoszcz,POL</item>
+        <item>Bytom,POL</item>
+        <item>Butwal,NEP</item>
+        <item>Da Nang,VNM</item>
+        <item>Dabgram,IND</item>
+        <item>Dąbrowa Górnicza,POL</item>
+        <item>Dadu,Pakistan Dadu,PAK</item>
+        <item>Daegu,KOR</item>
+        <item>Daejeon,KOR</item>
+        <item>Dagupan,PHL</item>
+        <item>Daitō,Osaka Daitō,JPN</item>
+        <item>Dakar,SEN</item>
+        <item>Da Lat,VNM</item>
+        <item>Dali,Yunnan Dali,CHN</item>
+        <item>Dalian,CHN</item>
+        <item>Dallas,USA</item>
+        <item>Daloa,CIV</item>
+        <item>Daly City,USA</item>
+        <item>Damanhur,EGY</item>
+        <item>Damascus,SYR</item>
+        <item>Dammam,SAU</item>
+        <item>Damoh,IND</item>
+        <item>Danao City,PHL</item>
+        <item>Dandong,CHN</item>
+        <item>Dangyang,CHN</item>
+        <item>Danjiangkou,CHN</item>
+        <item>Danyang,Jiangsu Danyang,CHN</item>
+        <item>Daqing,CHN</item>
+        <item>Dar Es Salaam,TZA</item>
+        <item>Daraga,Albay Daraga,PHL</item>
+        <item>Darbhanga,IND</item>
+        <item>Darlington,GBR</item>
+        <item>Darmstadt,DEU</item>
+        <item>Darwin,Australia Darwin,AUS</item>
+        <item>Daska,PAK</item>
+        <item>Dasmariñas,Cavite Dasmariñas,PHL</item>
+        <item>Daşoguz,TKM</item>
+        <item>Datong,CHN</item>
+        <item>Daugavpils,LVA</item>
+        <item>Davangere,IND</item>
+        <item>Davao City,PHL</item>
+        <item>Dayton,Ohio Dayton,USA</item>
+        <item>Dazhou,CHN</item>
+        <item>Debrecen,HUN</item>
+        <item>Dehiwala-Mount Lavinia,LKA</item>
+        <item>Dehradun,IND</item>
+        <item>Deir ez Zor,SYR</item>
+        <item>Delhi,IND</item>
+        <item>Delmas,Ouest Delmas,HTI</item>
+        <item>Dengzhou,CHN</item>
+        <item>Denizli,TUR</item>
+        <item>Denpasar,IDN</item>
+        <item>Denver,USA</item>
+        <item>Depok,IDN</item>
+        <item>Dera Ghazi Khan,PAK</item>
+        <item>Derbent,RUS</item>
+        <item>Derby,GBR</item>
+        <item>Derince,TUR</item>
+        <item>Des Moines,USA</item>
+        <item>Dessie,ETH</item>
+        <item>Detroit,USA</item>
+        <item>Dewas,IND</item>
+        <item>Deyang,CHN</item>
+        <item>Dezful,IRN</item>
+        <item>Dezhou,CHN</item>
+        <item>Dhaka,BGD</item>
+        <item>Dhanbad,IND</item>
+        <item>Dhule,IND</item>
+        <item>Diadema,São Paulo Diadema,BRA</item>
+        <item>Diaobingshan,CHN</item>
+        <item>Dibrugarh,IND</item>
+        <item>Digos City,PHL</item>
+        <item>Dijon,FRA</item>
+        <item>Dili,TLS</item>
+        <item>Dimitrovgrad,Russia Dimitrovgrad,RUS</item>
+        <item>Dinajpur,BGD</item>
+        <item>Dindigul,IND</item>
+        <item>Dingzhou,CHN</item>
+        <item>Dipolog City,PHL</item>
+        <item>Dire Dawa,ETH</item>
+        <item>Divinópolis,BRA</item>
+        <item>Diwaniyah,IRQ</item>
+        <item>Diyarbakır,TUR</item>
+        <item>Djelfa,DZA</item>
+        <item>Djibouti,DJI</item>
+        <item>Dnipro,UKR</item>
+        <item>Doboj,BIH</item>
+        <item>Dobrich,BGR</item>
+        <item>Dodoma,TZA</item>
+        <item>Doha,QAT</item>
+        <item>Donetsk,UKR</item>
+        <item>Dongchuan,CHN</item>
+        <item>Dongguan,CHN</item>
+        <item>Dongtai,CHN</item>
+        <item>Dongyang,CHN</item>
+        <item>Dongying,CHN</item>
+        <item>Dordrecht,NLD</item>
+        <item>Dortmund,DEU</item>
+        <item>Dos Quebradas,COL</item>
+        <item>Douala,CMR</item>
+        <item>Dourados,BRA</item>
+        <item>Dombivli,IND</item>
+        <item>Downey,California Downey,USA</item>
+        <item>Dresden,DEU</item>
+        <item>Drobeta-Turnu Severin,ROU</item>
+        <item>Dubai,ARE</item>
+        <item>Dublin,IRL</item>
+        <item>Dudley,GBR</item>
+        <item>Duisburg,DEU</item>
+        <item>Duitama,COL</item>
+        <item>Dujiangyan,CHN</item>
+        <item>Dumaguete City,PHL</item>
+        <item>Dundee,GBR</item>
+        <item>Dunedin,NZL</item>
+        <item>Dunhua,CHN</item>
+        <item>Dunhuang,CHN</item>
+        <item>Dunkerque,FRA</item>
+        <item>Duque de Caxias,BRA</item>
+        <item>Durango,Durango Durango,MEX</item>
+        <item>Durban,ZAF</item>
+        <item>Durg,IND</item>
+        <item>Durgapur,IND</item>
+        <item>Durham,North Carolina Durham,USA</item>
+        <item>Durrës,ALB</item>
+        <item>Dushanbe,TJK</item>
+        <item>Duyun,CHN</item>
+        <item>Düsseldorf,DEU</item>
+        <item>Dzerzhinsk,Russia Dzerzhinsk,RUS</item>
+        <item>Davenport,Iowa Davenport,USA</item>
+        <item>Eastbourne,GBR</item>
+        <item>Ebetsu,JPN</item>
+        <item>Ebina,Kanagawa Ebina,JPN</item>
+        <item>Ecatepec,MEX</item>
+        <item>Ede,Netherlands Ede,NLD</item>
+        <item>Eggs,Nigeria Ede,NGA</item>
+        <item>Edéa,CMR</item>
+        <item>Edinburgh,GBR</item>
+        <item>Edirne,TUR</item>
+        <item>Edmonton,CAN</item>
+        <item>Eilat,ISR</item>
+        <item>Eindhoven,NLD</item>
+        <item>Ekibastuz,KAZ</item>
+        <item>El Aaiún,ESH</item>
+        <item>El Alto,BOL</item>
+        <item>El Eulma,DZA</item>
+        <item>El Jadida,MAR</item>
+        <item>El Khroub,DZA</item>
+        <item>El Monte,California El Monte,USA</item>
+        <item>El Oued,DZA</item>
+        <item>El Paso,USA</item>
+        <item>El Progreso,HND</item>
+        <item>Elazığ,TUR</item>
+        <item>Elbasan,ALB</item>
+        <item>Elbląg,POL</item>
+        <item>Elche,ESP</item>
+        <item>Eldoret,KEN</item>
+        <item>Elektrostal,RUS</item>
+        <item>Elista,RUS</item>
+        <item>Elizabeth,New Jersey Elizabeth,USA</item>
+        <item>Elk Grove,California Elk Grove,USA</item>
+        <item>El-Mahalla El-Kubra,EGY</item>
+        <item>Eluru,IND</item>
+        <item>English Bazar,IND</item>
+        <item>Enschede,NLD</item>
+        <item>Ensenada,Baja California Ensenada,MEX</item>
+        <item>Enshi City Enshi,CHN</item>
+        <item>Enugu,NGA</item>
+        <item>Envigado,COL</item>
+        <item>Erbil,IRQ</item>
+        <item>Erfurt,DEU</item>
+        <item>Erie,Pennsylvania Erie,USA</item>
+        <item>Erlangen,DEU</item>
+        <item>Erode,IND</item>
+        <item>Erzincan,TUR</item>
+        <item>Erzurum,TUR</item>
+        <item>Escondido,California Escondido,USA</item>
+        <item>Esenler,TUR</item>
+        <item>Esfahan,IRN</item>
+        <item>Eskişehir,TUR</item>
+        <item>Esmeraldas,Ecuador Esmeraldas,ECU</item>
+        <item>Espoo,FIN</item>
+        <item>Essen,DEU</item>
+        <item>Etawah,IND</item>
+        <item>Eugene,Oregon Eugene,USA</item>
+        <item>Eujeongbu,KOR</item>
+        <item>Evansville,Indiana Evansville,USA</item>
+        <item>Exeter,GBR</item>
+        <item>Ezhou,CHN</item>
+        <item>Faisalabad,PAK</item>
+        <item>Faizabad,IND</item>
+        <item>Faridabad,IND</item>
+        <item>Farrukhabad,IND</item>
+        <item>Fatehpur,Uttar Pradesh Fatehpur,IND</item>
+        <item>Fayetteville,North Carolina Fayetteville,USA</item>
+        <item>Fayyum,EGY</item>
+        <item>Feira de Santana,BRA</item>
+        <item>Fengcheng,Jiangxi Fengcheng,CHN</item>
+        <item>Fenghua,CHN</item>
+        <item>Fergana,UZB</item>
+        <item>Ferrara,ITA</item>
+        <item>Ferraz de Vasconcelos,BRA</item>
+        <item>Fes,MAR</item>
+        <item>Firozabad,IND</item>
+        <item>Flint,Michigan Flint,USA</item>
+        <item>Florence,ITA</item>
+        <item>Florencia,Caquetá Florencia,COL</item>
+        <item>Florianópolis,BRA</item>
+        <item>Floridablanca,Santander Floridablanca,COL</item>
+        <item>Focşani,ROU</item>
+        <item>Foggia,ITA</item>
+        <item>Fontana,California Fontana,USA</item>
+        <item>Forlì,ITA</item>
+        <item>Formosa,Argentina Formosa,ARG</item>
+        <item>Fort Collins,USA</item>
+        <item>Fort Lauderdale,USA</item>
+        <item>Fort Wayne,USA</item>
+        <item>Fort Worth,USA</item>
+        <item>Fortaleza,BRA</item>
+        <item>Fort-de-France,MTQ</item>
+        <item>Foshan,CHN</item>
+        <item>Foz do Iguaçu,BRA</item>
+        <item>Franca,BRA</item>
+        <item>Francisco Morato,BRA</item>
+        <item>Francistown,BWA</item>
+        <item>Franco da Rocha,BRA</item>
+        <item>Frankfurt am Main,DEU</item>
+        <item>Freetown,SLE</item>
+        <item>Freiburg im Breisgau,DEU</item>
+        <item>Fremont,California Fremont,USA</item>
+        <item>Fresno,USA</item>
+        <item>Fu'an,CHN</item>
+        <item>Fuchu,Tokyo Fuchu,JPN</item>
+        <item>Fuenlabrada,ESP</item>
+        <item>Fuji,Shizuoka Fuji,JPN</item>
+        <item>Fujieda,JPN</item>
+        <item>Fujimi,Saitama Fujimi,JPN</item>
+        <item>Fujin City,CHN</item>
+        <item>Fujinomiya,JPN</item>
+        <item>Fujisawa,Kanagawa Fujisawa,JPN</item>
+        <item>Fukuya,JPN</item>
+        <item>Fukui,Fukui Fukui,JPN</item>
+        <item>Fukuoka,JPN</item>
+        <item>Fukushima,Fukushima Fukushima,JPN</item>
+        <item>Fukuyama,Hiroshima Fukuyama,JPN</item>
+        <item>Fuling,CHN</item>
+        <item>Fullerton,California Fullerton,USA</item>
+        <item>Funabashi (city) Funabashi,JPN</item>
+        <item>Funchal,PRT</item>
+        <item>Fushun,CHN</item>
+        <item>Fuxin,CHN</item>
+        <item>Fuyang,CHN</item>
+        <item>Fuzhou Fuzhou,Fujian,CHN</item>
+        <item>Fuzhou,Jiangxi,CHN</item>
+        <item>Fürth,DEU</item>
+        <item>Gaborone,BWA</item>
+        <item>Gadag-Betgeri,IND</item>
+        <item>Galați,ROU</item>
+        <item>Gandhidham,IND</item>
+        <item>Gandhinagar,IND</item>
+        <item>Ganganagar,IND</item>
+        <item>Gangneung,KOR</item>
+        <item>Gəncə,AZE</item>
+        <item>Ganzhou,CHN</item>
+        <item>Gaocheng,CHN</item>
+        <item>Garanhuns,BRA</item>
+        <item>Garden Grove,California Garden Grove,USA</item>
+        <item>Garland,Texas Garland,USA</item>
+        <item>Garoua,CMR</item>
+        <item>Gary,Indiana Gary,USA</item>
+        <item>Gatineau,CAN</item>
+        <item>Gaya,India Gaya,IND</item>
+        <item>Gaza City,PSE</item>
+        <item>Gaziantep,TUR</item>
+        <item>Gdańsk,POL</item>
+        <item>Gdynia,POL</item>
+        <item>Gebze,TUR</item>
+        <item>Geelong,AUS</item>
+        <item>Gejiu,CHN</item>
+        <item>Geleen-Sittard,NLD</item>
+        <item>Gelsenkirchen,DEU</item>
+        <item>General Santos City,PHL</item>
+        <item>Geneva,CHE</item>
+        <item>Genova,ITA</item>
+        <item>George Town,Penang George Town,MYS</item>
+        <item>Georgetown,Guyana Georgetown,GUY</item>
+        <item>Gera,DEU</item>
+        <item>Germiston,RSA</item>
+        <item>Getafe,ESP</item>
+        <item>Ghardaïa,DZA</item>
+        <item>Ghaziabad,Uttar Pradesh Ghaziabad,IND</item>
+        <item>Ghazni,AFG</item>
+        <item>Ghent,BEL</item>
+        <item>Gifu,Gifu Gifu,JPN</item>
+        <item>Gijón,ESP</item>
+        <item>Gilbert,Arizona Gilbert,USA</item>
+        <item>Gingoog City,PHL</item>
+        <item>Girardot,Cundinamarca Girardot,COL</item>
+        <item>Giresun,TUR</item>
+        <item>Giza,EGY</item>
+        <item>Glasgow,GBR</item>
+        <item>Glazov,RUS</item>
+        <item>Glendale,Arizona,USA</item>
+        <item>Glendale,California,USA</item>
+        <item>Gliwice,POL</item>
+        <item>Gloucester,GBR</item>
+        <item>Godhra,IND</item>
+        <item>Godoy Cruz,Mendoza Godoy Cruz,ECU</item>
+        <item>Goiânia,BRA</item>
+        <item>Gojra,IND</item>
+        <item>Gold Coast,Australia Gold Coast,AUS</item>
+        <item>Goma,COD</item>
+        <item>Gómez Palacio,Durango Gómez Palacio,MEX</item>
+        <item>Gonbad-e Qabus,IRN</item>
+        <item>Gondar,ETH</item>
+        <item>Gondiya,IND</item>
+        <item>Gongzhuling,CHN</item>
+        <item>Gorakhpur,IND</item>
+        <item>Gorgan,IRN</item>
+        <item>Gorzów Wielkopolski,POL</item>
+        <item>Gothenburg,SWE</item>
+        <item>Governador Valadares,BRA</item>
+        <item>Göttingen,DEU</item>
+        <item>Granada,Nicaragua Granada,NIC</item>
+        <item>Granada,Spain Granada,ESP</item>
+        <item>Grand Prairie,USA</item>
+        <item>Grand Rapids,USA</item>
+        <item>Gravataí,BRA</item>
+        <item>Graz,AUT</item>
+        <item>Green Bay,Wisconsin Green Bay,USA</item>
+        <item>Greensboro,USA</item>
+        <item>Grenoble,FRA</item>
+        <item>Groningen (city) Groningen,NLD</item>
+        <item>Grozny,RUS</item>
+        <item>Grudziądz,POL</item>
+        <item>Guadalajara,Jalisco Guadalajara,MEX</item>
+        <item>Guadalupe,Nuevo León Guadalupe,MEX</item>
+        <item>Guanare,VEN</item>
+        <item>Guanghan,CHN</item>
+        <item>Guangshui,CHN</item>
+        <item>Guangyuan,CHN</item>
+        <item>Guangzhou,CHN</item>
+        <item>Guantánamo,CUB</item>
+        <item>Guarapuava,BRA</item>
+        <item>Guaratinguetá,BRA</item>
+        <item>Guarenas,VEN</item>
+        <item>Guarujá,BRA</item>
+        <item>Guarulhos,BRA</item>
+        <item>Guatemala City,GTM</item>
+        <item>Guayaquil,ECU</item>
+        <item>Guaymas,MEX</item>
+        <item>Guaynabo,PRI</item>
+        <item>Gudivada,IND</item>
+        <item>Guédiawaye,SEN</item>
+        <item>Guelma,DZA</item>
+        <item>Guelph,CAN</item>
+        <item>Guigang,CHN</item>
+        <item>Guilin,CHN</item>
+        <item>Guiyang,CHN</item>
+        <item>Gujiao,CHN</item>
+        <item>Gujranwala,PAK</item>
+        <item>Gujrat City,IND</item>
+        <item>Gulbarga,IND</item>
+        <item>Gumi,South Korea Gumi,KOR</item>
+        <item>Guna,India Guna,IND</item>
+        <item>Guntakul,IND</item>
+        <item>Gunsan,KOR</item>
+        <item>Guntur,IND</item>
+        <item>Gurgaon,IND</item>
+        <item>Guri,KOR</item>
+        <item>Guruvayur,IND</item>
+        <item>Guwahati,IND</item>
+        <item>Gwalior,IND</item>
+        <item>Gwangju,KOR</item>
+        <item>Gweru,ZWE</item>
+        <item>Gyeongju,KOR</item>
+        <item>Győr,HUN</item>
+        <item>Gyumri,ARM</item>
+        <item>Haarlem,NLD</item>
+        <item>Habikino,JPN</item>
+        <item>Habra,IND</item>
+        <item>Hachinohe.,JPN</item>
+        <item>Hachiōji,Tokyo Hachiōji,JPN</item>
+        <item>Hadano,JPN</item>
+        <item>Haeju,PRK</item>
+        <item>Hafizabad,PAK</item>
+        <item>Hagen,DEU</item>
+        <item>Haicheng,Liaoning Haicheng,CHN</item>
+        <item>Haifa,ISR</item>
+        <item>Haikou,CHN</item>
+        <item>Hailun,CHN</item>
+        <item>Haining City,CHN</item>
+        <item>Haiphong,VNM</item>
+        <item>Hakodate,JPN</item>
+        <item>Hakone,JPN</item>
+        <item>Haldia,IND</item>
+        <item>Haldwani-cum-Kathgodam,IND</item>
+        <item>Halifax Regional Municipality Halifax,CAN</item>
+        <item>Halle (Saale) Halle,DEU</item>
+        <item>Hama,SYR</item>
+        <item>Hamadan,IRN</item>
+        <item>Hamamatsu,JPN</item>
+        <item>Hamburg,DEU</item>
+        <item>Hamhung,PRK</item>
+        <item>Hami City,CHN</item>
+        <item>Hamilton,New Zealand Hamilton,NZL</item>
+        <item>Hamilton,Ontario Hamilton,CAN</item>
+        <item>Hamm,DEU</item>
+        <item>Hanam,KOR</item>
+        <item>Hancheng,CHN</item>
+        <item>Handa,Aichi Handa,JPN</item>
+        <item>Handan,CHN</item>
+        <item>Hangzhou,CHN</item>
+        <item>Hanoi,VNM</item>
+        <item>Hanover,DEU</item>
+        <item>Hanzhong,CHN</item>
+        <item>Haora,IND</item>
+        <item>Hapur,IND</item>
+        <item>Harare,ZWE</item>
+        <item>Harbin,CHN</item>
+        <item>Hargeisa,SOM</item>
+        <item>Haridwar,IND</item>
+        <item>Hartford,Connecticut Hartford,USA</item>
+        <item>Hassan,India Hassan,IND</item>
+        <item>Hathras,IND</item>
+        <item>Hat Yai,THA</item>
+        <item>Havana,CUB</item>
+        <item>Hayward,California Hayward,USA</item>
+        <item>Hebi,CHN</item>
+        <item>Hebron,PSE</item>
+        <item>Hechi,CHN</item>
+        <item>Heerlen-Kerkrade,NLD</item>
+        <item>Hefei,CHN</item>
+        <item>Hegang,CHN</item>
+        <item>Heidelberg,DEU</item>
+        <item>Heihe,CHN</item>
+        <item>Heilbronn,DEU</item>
+        <item>Helsingborg,SWE</item>
+        <item>Helsinki,FIN</item>
+        <item>Henderson,Nevada Henderson,USA</item>
+        <item>Hengshui,CHN</item>
+        <item>Hengyang,CHN</item>
+        <item>Heraklion,GRC</item>
+        <item>Herat,AFG</item>
+        <item>Hermosillo,MEX</item>
+        <item>Herne,Germany Herne,DEU</item>
+        <item>Heshan,Guangdong Heshan,CHN</item>
+        <item>Hetian,CHN</item>
+        <item>Heyuan,CHN</item>
+        <item>Heze,CHN</item>
+        <item>Hialeah,Florida Hialeah,USA</item>
+        <item>Higashihiroshima,JPN</item>
+        <item>Higashikurume,Tokyo Higashikurume,JPN</item>
+        <item>Higashimurayama,Tokyo Higashimurayama,JPN</item>
+        <item>Higashiōsaka,Osaka Higashiōsaka,JPN</item>
+        <item>Hikone,JPN</item>
+        <item>Hildesheim,DEU</item>
+        <item>Hilla,IRQ</item>
+        <item>Himamaylan City,PHL</item>
+        <item>Himeji,JPN</item>
+        <item>Hindupur,IND</item>
+        <item>Hino,Tokyo Hino,JPN</item>
+        <item>Hirakata,JPN</item>
+        <item>Hiratsuka,JPN</item>
+        <item>Hirosaki,JPN</item>
+        <item>Hiroshima,JPN</item>
+        <item>Hisar,India Hisar,IND</item>
+        <item>Hitachi,Ibaraki Hitachi,JPN</item>
+        <item>Hitachinaka,JPN</item>
+        <item>Ho Chi Minh City,VNM</item>
+        <item>Hobart,Tasmania Hobart,AUS</item>
+        <item>Hofu,JPN</item>
+        <item>Holguín,CUB</item>
+        <item>Holon,ISR</item>
+        <item>Homs,SYR</item>
+        <item>Homyel,BLR</item>
+        <item>Hong Kong,HKG</item>
+        <item>Honghu,CHN</item>
+        <item>Honolulu,USA</item>
+        <item>Horlivka,UKR</item>
+        <item>Hortolândia,BRA</item>
+        <item>Hoshiarpur,IND</item>
+        <item>Hospet,IND</item>
+        <item>Hospitalet de Llobregat,ESP</item>
+        <item>Houghly-Chinsura,IND</item>
+        <item>Houma,Shanxi Houma,CHN</item>
+        <item>Houston,USA</item>
+        <item>Hoya,Tokyo Hoya,JPN</item>
+        <item>Hrodna,BLR</item>
+        <item>Hsinchu,TWN</item>
+        <item>Huadian,Jilin Huadian,CHN</item>
+        <item>Huaian,CHN</item>
+        <item>Huaibei,CHN</item>
+        <item>Huaihua,CHN</item>
+        <item>Huainan,CHN</item>
+        <item>Huaiyin District,Huai'an Huaiyin,CHN</item>
+        <item>Huambo,AGO</item>
+        <item>Huancayo,PER</item>
+        <item>Huanghua,CHN</item>
+        <item>Huangshan,CHN</item>
+        <item>Huangshi,Hubei Huangshi,CHN</item>
+        <item>Huangyan District Huangyan,CHN</item>
+        <item>Huánuco,PER</item>
+        <item>Huaraz,PER</item>
+        <item>Huaying,CHN</item>
+        <item>Hubli-Dharwad,IND</item>
+        <item>Hudaida,YEM</item>
+        <item>Huddersfield,GBR</item>
+        <item>Huế,VNM</item>
+        <item>Huelva,ESP</item>
+        <item>Huhehaote,CHN</item>
+        <item>Huixian,CHN</item>
+        <item>Huizhou,CHN</item>
+        <item>Huludao,CHN</item>
+        <item>Hulunbuir,CHN</item>
+        <item>Hunchun,CHN</item>
+        <item>Huntington Beach,California Huntington Beach,USA</item>
+        <item>Huntsville,Alabama Huntsville,USA</item>
+        <item>Huozhou,CHN</item>
+        <item>Huzhou,CHN</item>
+        <item>Hyderabad,India Hyderabad,IND</item>
+        <item>Hyderabad,Pakistan Hyderabad,PAK</item>
+        <item>Hyesan,PRK</item>
+        <item>Iaşi,ROU</item>
+        <item>Ibadan,NGA</item>
+        <item>Ibagué,COL</item>
+        <item>Ibaraki,Osaka Ibaraki,JPN</item>
+        <item>Ibarra,Ecuador Ibarra,ECU</item>
+        <item>Ibirité,BRA</item>
+        <item>Ica (city) Ica,PER</item>
+        <item>Ichalakaranji,IND</item>
+        <item>Ichihara,Chiba Ichihara,JPN</item>
+        <item>Ichikawa,Chiba Ichikawa,JPN</item>
+        <item>Ichinomiya,JPN</item>
+        <item>Ife,NGA</item>
+        <item>Iida,Nagano Iida,JPN</item>
+        <item>Ikeda,Osaka Ikeda,JPN</item>
+        <item>Ikere-Ekiti,NGA</item>
+        <item>Ikoma,Nara Ikoma,JPN</item>
+        <item>Iksan,KOR</item>
+        <item>Ila,Nigeria Ila,NGA</item>
+        <item>Ilagan,Isabela Ilagan,PHL</item>
+        <item>Ilam,Iran Ilam,IRN</item>
+        <item>Ilesa,NGA</item>
+        <item>Ilhéus,BRA</item>
+        <item>Iligan,PHL</item>
+        <item>Iloilo City,PHL</item>
+        <item>Ilopango,SLV</item>
+        <item>Ilorin,NGA</item>
+        <item>Imabari,JPN</item>
+        <item>Imbaba,EGY</item>
+        <item>Imperatriz,BRA</item>
+        <item>Imphal,IND</item>
+        <item>Inazawa,JPN</item>
+        <item>Incheon,KOR</item>
+        <item>Indaiatuba,BRA</item>
+        <item>Independence,Missouri Independence,USA</item>
+        <item>Indianapolis,USA</item>
+        <item>Indore,IND</item>
+        <item>Inegöl,TUR</item>
+        <item>Inglewood,California Inglewood,USA</item>
+        <item>Ingolstadt,DEU</item>
+        <item>Innsbruck,AUT</item>
+        <item>Ipatinga,BRA</item>
+        <item>Ipoh,MYS</item>
+        <item>Ipswich,GBR</item>
+        <item>Iquique,CHL</item>
+        <item>Iquitos,PER</item>
+        <item>Irapuato,MEX</item>
+        <item>Irbid,JOR</item>
+        <item>Iriga,PHL</item>
+        <item>Irkutsk,RUS</item>
+        <item>Iruma,Saitama Iruma,JPN</item>
+        <item>Irvine,California Irvine,USA</item>
+        <item>Irving,Texas Irving,USA</item>
+        <item>Ise,Mie Ise,JPN</item>
+        <item>Isesaki,JPN</item>
+        <item>Ishinomaki,JPN</item>
+        <item>İskenderun,TUR</item>
+        <item>Islam Shahr,IRN</item>
+        <item>Islamabad,PAK</item>
+        <item>Ismaïlia,EGY</item>
+        <item>Isparta,TUR</item>
+        <item>İstanbul,TUR</item>
+        <item>Itaboraí,BRA</item>
+        <item>Itabuna,BRA</item>
+        <item>Itagüí,COL</item>
+        <item>Itaituba,BRA</item>
+        <item>Itajaí,BRA</item>
+        <item>Itami,JPN</item>
+        <item>Itapecerica da Serra,BRA</item>
+        <item>Itapetininga,BRA</item>
+        <item>Itapevi,BRA</item>
+        <item>Itaquaquecetuba,BRA</item>
+        <item>Itu,Brazil Itu,BRA</item>
+        <item>Ivano-Frankivsk,UKR</item>
+        <item>Ivanovo,RUS</item>
+        <item>Iwaki,Fukushima,JPN</item>
+        <item>Iwakuni,JPN</item>
+        <item>Iwatsuki,JPN</item>
+        <item>Iwo,Nigeria Iwo,NGA</item>
+        <item>Ixtapaluca,MEX</item>
+        <item>Izhevsk,RUS</item>
+        <item>İzmir,TUR</item>
+        <item>İzmit,TUR</item>
+        <item>Izumi,Osaka Izumi,JPN</item>
+        <item>Jabalpur,IND</item>
+        <item>Jaboatao dos Guarapes,BRA</item>
+        <item>Jacareí,BRA</item>
+        <item>Jackson,Mississippi Jackson,USA</item>
+        <item>Jacksonville,USA</item>
+        <item>Jacobabad,PAK</item>
+        <item>Jaén,Spain Jaén,ESP</item>
+        <item>Jaffna,LKA</item>
+        <item>Jaipur,IND</item>
+        <item>Jakarta,IDN</item>
+        <item>Jalalabad,AFG</item>
+        <item>Jalandhar,IND</item>
+        <item>Jalgaon,IND</item>
+        <item>Jalpaiguri,IND</item>
+        <item>Jalna (city) Jalna,IND</item>
+        <item>Jamalpur,Bangladesh Jamalpur,BGD</item>
+        <item>Jambi (city) Jambi,IDN</item>
+        <item>Jamnagar,IND</item>
+        <item>Jamshedpur,IND</item>
+        <item>Jaraguá do Sul,BRA</item>
+        <item>Jaranwala,PAK</item>
+        <item>Jastrzębie Zdrój,POL</item>
+        <item>Jaú,BRA</item>
+        <item>Jaunpur,Uttar Pradesh Jaunpur,IND</item>
+        <item>Jayapura,IDN</item>
+        <item>Jeddah,SAU</item>
+        <item>Jena,DEU</item>
+        <item>Jendouba,TUN</item>
+        <item>Jeongju,KOR</item>
+        <item>Jeonju,KOR</item>
+        <item>Jequié,BRA</item>
+        <item>Jerez de la Frontera,ESP</item>
+        <item>Jersey City,USA</item>
+        <item>Jerusalem,ISR</item>
+        <item>Jessore,BGD</item>
+        <item>Jhang,PAK</item>
+        <item>Jhansi,IND</item>
+        <item>Jhelum,PAK</item>
+        <item>Jiagedaqi,CHN</item>
+        <item>Jiamusi,CHN</item>
+        <item>Ji'an,Jiangxi Ji'an,CHN</item>
+        <item>Ji'an,Jilin Ji'an,CHN</item>
+        <item>Jiangmen,CHN</item>
+        <item>Jiangshan,CHN</item>
+        <item>Jiangyin,CHN</item>
+        <item>Jiangyou,CHN</item>
+        <item>Jiaohe,Jilin Jiaohe,CHN</item>
+        <item>Jiaojiang,CHN</item>
+        <item>Jiaozhou City,CHN</item>
+        <item>Jiaozuo,CHN</item>
+        <item>Jiaxing,CHN</item>
+        <item>Jiayuguan (city) Jiayuguan,CHN</item>
+        <item>Jieshou,CHN</item>
+        <item>Jijel,DZA</item>
+        <item>Jimma,ETH</item>
+        <item>Jimo,Shandong Jimo,CHN</item>
+        <item>Jinan,CHN</item>
+        <item>Jinchang,CHN</item>
+        <item>Jincheng,CHN</item>
+        <item>Jingdezhen,CHN</item>
+        <item>Jingmen,CHN</item>
+        <item>Jingzhou,CHN</item>
+        <item>Jinhua,CHN</item>
+        <item>Jining,Shandong Jining,CHN</item>
+        <item>Jinshi City,CHN</item>
+        <item>Jinzhong,CHN</item>
+        <item>Jinzhou,CHN</item>
+        <item>Jishou,CHN</item>
+        <item>Jiujiang,CHN</item>
+        <item>Jiuquan,CHN</item>
+        <item>Jiutai,CHN</item>
+        <item>Jiutepec,MEX</item>
+        <item>Jixi,CHN</item>
+        <item>Jiyuan,CHN</item>
+        <item>Jizzakh,UZB</item>
+        <item>João Pessoa,Paraíba João Pessoa,BRA</item>
+        <item>Jodhpur,IND</item>
+        <item>Joetsu,Niigata Joetsu,JPN</item>
+        <item>Johannesburg,ZAF</item>
+        <item>Johor Bahru,MYS</item>
+        <item>Joinville,BRA</item>
+        <item>Joliet,Illinois Joliet,USA</item>
+        <item>Jorhat,IND</item>
+        <item>Jönköping,SWE</item>
+        <item>Jos,NGA</item>
+        <item>Juazeiro do Norte,BRA</item>
+        <item>Juazeiro,BRA</item>
+        <item>Juba,SSD</item>
+        <item>Juiz de Fora,BRA</item>
+        <item>Juliaca,PER</item>
+        <item>Junagadh,IND</item>
+        <item>Jundiaí,BRA</item>
+        <item>Jyväskylä,FIN</item>
+        <item>Kabankalan,PHL</item>
+        <item>Kabul,AFG</item>
+        <item>Kabwe,ZMB</item>
+        <item>Kadhimiya,IRQ</item>
+        <item>Kadoma,Osaka Kadoma,JPN</item>
+        <item>Kaduna,NGA</item>
+        <item>Kaesong,PRK</item>
+        <item>Kafr Dawar,EGY</item>
+        <item>Kagoshima,JPN</item>
+        <item>Kahramanmaraş,TUR</item>
+        <item>Kaifeng,CHN</item>
+        <item>Kaili,Guizhou Kaili,CHN</item>
+        <item>Kairouan,TUN</item>
+        <item>Kaiserslautern,DEU</item>
+        <item>Kaiyuan,Liaoning Kaiyuan,CHN</item>
+        <item>Kaiyuan,Yunnan Kaiyuan,CHN</item>
+        <item>Kakamigahara,JPN</item>
+        <item>Kakinada,IND</item>
+        <item>Kakogawa,JPN</item>
+        <item>Kaliningrad,RUS</item>
+        <item>Kalisz,POL</item>
+        <item>Kallithea,GRC</item>
+        <item>Kaluga,RUS</item>
+        <item>Kalyan,India Kalyan,IND</item>
+        <item>Kamagaya,JPN</item>
+        <item>Kamakura,Kanagawa Kamakura,JPN</item>
+        <item>Kamarhati,IND</item>
+        <item>Kamensk-Uralsky,RUS</item>
+        <item>Kamianets-Podilskyi,UKR</item>
+        <item>Kamianske,UKR</item>
+        <item>Kamoke,PAK</item>
+        <item>Kampala,UGA</item>
+        <item>Kampong Cham (city) Kampong Cham,KHM</item>
+        <item>Kamptee,IND</item>
+        <item>Kamyshin,RUS</item>
+        <item>Kananga,COD</item>
+        <item>Kanazawa,Ishikawa Kanazawa,JPN</item>
+        <item>Kanchipuram,IND</item>
+        <item>Kanchrapara,IND</item>
+        <item>Kandahar,AFG</item>
+        <item>Kandy,LKA</item>
+        <item>Kanggye,MMR</item>
+        <item>Kanhangad,IND</item>
+        <item>Kannur,IND</item>
+        <item>Kano,NGA</item>
+        <item>Kanpur,IND</item>
+        <item>Kansas City Metropolitan Area Kansas City,USA</item>
+        <item>Kansk,RUS</item>
+        <item>Kaohsiung,TWN</item>
+        <item>Kaolack,SEN</item>
+        <item>Karachi,PAK</item>
+        <item>Karaganda,KAZ</item>
+        <item>Karaikkudi,IND</item>
+        <item>Karaj,IRN</item>
+        <item>Karaman,TUR</item>
+        <item>Karamay,CHN</item>
+        <item>Karbala,IRQ</item>
+        <item>Karimnagar,IND</item>
+        <item>Kariya,JPN</item>
+        <item>Karlsruhe,DEU</item>
+        <item>Karnal,IND</item>
+        <item>Karur,IND</item>
+        <item>Kashan,IRN</item>
+        <item>Kashgar,CHN</item>
+        <item>Kashihara,JPN</item>
+        <item>Kashipur,Uttarakhand Kashipur,IND</item>
+        <item>Kashiwa,JPN</item>
+        <item>Kassala,SDN</item>
+        <item>Kassel,DEU</item>
+        <item>Kasuga,Fukuoka Kasuga,JPN</item>
+        <item>Kasugai,Aichi Kasugai,JPN</item>
+        <item>Kasukabe,JPN</item>
+        <item>Kasur,PAK</item>
+        <item>Kathlehong,ZAF</item>
+        <item>Kathmandu,NPL</item>
+        <item>Katihar,IND</item>
+        <item>Katowice,POL</item>
+        <item>Kaunas,LTU</item>
+        <item>Kawachinagano,JPN</item>
+        <item>Kawagoe,Saitama Kawagoe,JPN</item>
+        <item>Kawaguchi,Saitama Kawaguchi,JPN</item>
+        <item>Kawanishi,Hyōgo Kawanishi,JPN</item>
+        <item>Kawasaki,Kanagawa Kawasaki,JPN</item>
+        <item>Kayseri,TUR</item>
+        <item>Kazan,RUS</item>
+        <item>Kecskemét,HUN</item>
+        <item>Kediri,East Java Kediri,IDN</item>
+        <item>Keelung,TWN</item>
+        <item>Kelowna,CAN</item>
+        <item>Kemerovo,RUS</item>
+        <item>Kempton Park,Gauteng Kempton Park,ZAF</item>
+        <item>Kenitra,MAR</item>
+        <item>Kerch,UKR</item>
+        <item>Kerman,IRN</item>
+        <item>Kermanshah,IRN</item>
+        <item>Khabarovsk,RUS</item>
+        <item>Khairpur,Pakistan Khairpur,PAK</item>
+        <item>Khammam,IND</item>
+        <item>Khandwa,IND</item>
+        <item>Khanewal,PAK</item>
+        <item>Khanpur,PAK</item>
+        <item>Kharagpur,IND</item>
+        <item>Kharkiv,UKR</item>
+        <item>Khartoum,SDN</item>
+        <item>Khartoum North,SDN</item>
+        <item>Khasavyurt,RUS</item>
+        <item>Khayelitsha,ZAF</item>
+        <item>Khenchela,DZA</item>
+        <item>Kherson,UKR</item>
+        <item>Khimki,RUS</item>
+        <item>Khmelnytskyi,Ukraine Khmelnytskyi,UKR</item>
+        <item>Khomeini Shahr,IRN</item>
+        <item>Khon Kaen,THA</item>
+        <item>Khoramabad,IRN</item>
+        <item>Khoramshahr,IRN</item>
+        <item>Khouribga,MAR</item>
+        <item>Khoy,IRN</item>
+        <item>Khulna,BGD</item>
+        <item>Kırıkkale,TUR</item>
+        <item>Kızıltepe,TUR</item>
+        <item>Kidapawan City,PHL</item>
+        <item>Kiel,DEU</item>
+        <item>Kielce,POL</item>
+        <item>Kigali,RWA</item>
+        <item>Kikwit,COD</item>
+        <item>Kimberley,Northern Cape Kimberley,ZAF</item>
+        <item>Kimhae,KOR</item>
+        <item>Kingston,Jamaica Kingston,JAM</item>
+        <item>Kingston,Ontario Kingston,CAN</item>
+        <item>Kingston upon Hull,GBR</item>
+        <item>Kinshasa,COD</item>
+        <item>Kirkuk,IRQ</item>
+        <item>Kiryu,Gunma Kiryu,JPN</item>
+        <item>Kisangani,COD</item>
+        <item>Kisarazu,JPN</item>
+        <item>Kiselyovsk,RUS</item>
+        <item>Kishiwada,JPN</item>
+        <item>Kislovodsk,RUS</item>
+        <item>Kismayo,SOM</item>
+        <item>Kisumu,KEN</item>
+        <item>Kissimmee,Florida Kissimmee-USA</item>
+        <item>Kitakyushu,JPN</item>
+        <item>Kitami,JPN</item>
+        <item>Kitchener,Ontario Kitchener,CAN</item>
+        <item>Kitwe,ZMB</item>
+        <item>Klaipėda,LTU</item>
+        <item>Klang,Malaysia Klang,MYS</item>
+        <item>Kluang,MYS</item>
+        <item>Knoxville,USA</item>
+        <item>Kobe,JPN</item>
+        <item>Koblenz,DEU</item>
+        <item>Kochi,India Kochi,IND</item>
+        <item>Kōchi,Kōchi Kōchi,JPN</item>
+        <item>Kodaira,JPN</item>
+        <item>Kofu,JPN</item>
+        <item>Koganei,JPN</item>
+        <item>Kohat,PAK</item>
+        <item>Kokand,UZB</item>
+        <item>Kokshetau,KAZ</item>
+        <item>Kokubunji,Tokyo Kokubunji,JPN</item>
+        <item>Kolar,IND</item>
+        <item>Kolhapur,IND</item>
+        <item>Kolkata,IND</item>
+        <item>Kollam,IND</item>
+        <item>Kolomna,RUS</item>
+        <item>Kolwezi,COD</item>
+        <item>Komaki,JPN</item>
+        <item>Komatsu,Ishikawa Komatsu,JPN</item>
+        <item>Komsomolsk-on-Amur,RUS</item>
+        <item>Konya,TUR</item>
+        <item>Korba,Chhattisgarh Korba,IND</item>
+        <item>Korhogo,CIV</item>
+        <item>Koriyama,JPN</item>
+        <item>Korla,CHN</item>
+        <item>Korolyov,Moscow Oblast Korolyov,RUS</item>
+        <item>Koronadal City,PHL</item>
+        <item>Koror City,PLW</item>
+        <item>Koshigaya,JPN</item>
+        <item>Košice,SVK</item>
+        <item>Kostanay,KAZ</item>
+        <item>Kosti,Sudan Kosti,SDN</item>
+        <item>Kostroma,RUS</item>
+        <item>Koszalin,POL</item>
+        <item>Kota Bharu,MYS</item>
+        <item>Kota Kinabalu,MYS</item>
+        <item>Kota,Rajasthan Kota,IND</item>
+        <item>Kothagudem,IND</item>
+        <item>Kottayam,IND</item>
+        <item>Kovrov,RUS</item>
+        <item>Kozhikode,IND</item>
+        <item>Kragujevac,SRB</item>
+        <item>Kraków,POL</item>
+        <item>Kraljevo,SRB</item>
+        <item>Kramatorsk,UKR</item>
+        <item>Krasnodar,RUS</item>
+        <item>Krasnoyarsk,RUS</item>
+        <item>Krasnyi Luch,UKR</item>
+        <item>Krefeld,DEU</item>
+        <item>Kremenchuk,UKR</item>
+        <item>Krishnanagar,Nadia Krishnanagar,IND</item>
+        <item>Kropyvnytskyi,UKR</item>
+        <item>Kruševac,SRB</item>
+        <item>Kryvyi Rih,UKR</item>
+        <item>Kuala Lumpur,MYS</item>
+        <item>Kuala Terengganu,MYS</item>
+        <item>Kuantan,MYS</item>
+        <item>Kuching,MYS</item>
+        <item>Kulai,MYS</item>
+        <item>Kumagaya,JPN</item>
+        <item>Kumamoto,JPN</item>
+        <item>Kumasi,GHA</item>
+        <item>Kumbakonam,IND</item>
+        <item>Kunduz,AFG</item>
+        <item>Kunming,CHN</item>
+        <item>Kunshan,CHN</item>
+        <item>Kuopio,FIN</item>
+        <item>Kurashiki,JPN</item>
+        <item>Kure,Hiroshima Kure,JPN</item>
+        <item>Kurgan,Kurgan Oblast Kurgan,RUS</item>
+        <item>Kurnool,IND</item>
+        <item>Kursk,RUS</item>
+        <item>Kurume,JPN</item>
+        <item>Kusatsu,Shiga Kusatsu,JPN</item>
+        <item>Kushiro,JPN</item>
+        <item>Kut,IRQ</item>
+        <item>Kutaisi,GEO</item>
+        <item>Kuwait City,KWT</item>
+        <item>Kuwana,JPN</item>
+        <item>Kütahya,TUR</item>
+        <item>Kuytun,CHN</item>
+        <item>Kwekwe,ZIM</item>
+        <item>Kyiv,UKR</item>
+        <item>Kyoto,JPN</item>
+        <item>Kyzyl,RUS</item>
+        <item>Kyzylorda,KAZ</item>
+
+        <item>La Ceiba,HND</item>
+        <item>Las Palmas de Gran Canaria,ESP</item>
+        <item>La Paz,Bolivia La Paz,BOL</item>
+        <item>La Paz,Baja California Sur La Paz,MEX</item>
+        <item>La Plata,ARG</item>
+        <item>La Rioja,Argentina La Rioja,ARG</item>
+        <item>La Serena,Chile La Serena,CHL</item>
+        <item>La Victoria,Aragua La Victoria,VEN</item>
+        <item>Lafayette,Louisiana Lafayette,USA</item>
+        <item>Lages,BRA</item>
+        <item>Laghouat,DZA</item>
+        <item>Lagos,NGA</item>
+        <item>Lahore,PAK</item>
+        <item>Lahti,FIN</item>
+        <item>Laiwu,CHN</item>
+        <item>Laiyang,CHN</item>
+        <item>Laizhou,CHN</item>
+        <item>Lakewood,Colorado Lakewood,USA</item>
+        <item>Lalitpur,India Lalitpur,IND</item>
+        <item>Lancaster,California Lancaster,USA</item>
+        <item>Langfang,CHN</item>
+        <item>Lansing,USA</item>
+        <item>Lanús,ARG</item>
+        <item>Lanxi,Zhejiang Lanxi,CHN</item>
+        <item>Lanzhou,CHN</item>
+        <item>Laoag City,PHL</item>
+        <item>Laohekou,CHN</item>
+        <item>Lapu-Lapu City,PHL</item>
+        <item>Laredo,Texas Laredo,USA</item>
+        <item>Larissa,GRC</item>
+        <item>Larkana,PAK</item>
+        <item>Larnaca,CYP</item>
+        <item>Las Vegas,USA</item>
+        <item>Latakia,SYR</item>
+        <item>Latina,Lazio Latina,ITA</item>
+        <item>Latur,IND</item>
+        <item>Launceston,Tasmania Launceston,AUS</item>
+        <item>Lauro de Freitas,BRA</item>
+        <item>Lausanne,CHE</item>
+        <item>Laval,Quebec Laval,CAN</item>
+        <item>Le Havre,FRA</item>
+        <item>Le Mans,FRA</item>
+        <item>Leeds,GBR</item>
+        <item>Leganés,ESP</item>
+        <item>Legazpi,Albay Legazpi City,PHL</item>
+        <item>Legnica,POL</item>
+        <item>Leicester,GBR</item>
+        <item>Leiden,NLD</item>
+        <item>Leipzig,DEU</item>
+        <item>Leiyang,CHN</item>
+        <item>Leling,CHN</item>
+        <item>Lengshuijiang,CHN</item>
+        <item>Lengshuitan,CHN</item>
+        <item>Leninsk-Kuznetsky (city) Leninsk-Kuznetsky,RUS</item>
+        <item>Lens,Pas-de-Calais Lens,FRA</item>
+        <item>León,Guanajuato León,MEX</item>
+        <item>León,Spain León,ESP</item>
+        <item>León,Nicaragua León,NIC</item>
+        <item>Leshan,CHN</item>
+        <item>Leskovac,SRB</item>
+        <item>Leverkusen,DEU</item>
+        <item>Lexington,Kentucky Lexington,USA</item>
+        <item>Lhasa,CHN</item>
+        <item>Lianyuan,CHN</item>
+        <item>Lianyungang,CHN</item>
+        <item>Liaocheng,CHN</item>
+        <item>Liaoyang,CHN</item>
+        <item>Liaoyuan,CHN</item>
+        <item>Libreville,GAB</item>
+        <item>Lichuan,Hubei Lichuan,CHN</item>
+        <item>Lida,BLR</item>
+        <item>Liège,BEL</item>
+        <item>Ligao City,PHL</item>
+        <item>Likasi,COD</item>
+        <item>Liling,CHN</item>
+        <item>Lille,FRA</item>
+        <item>Lilongwe,MWI</item>
+        <item>Lima,PER</item>
+        <item>Limassol,CYP</item>
+        <item>Limeira,BRA</item>
+        <item>Limerick,IRL</item>
+        <item>Limoges,FRA</item>
+        <item>Lincoln,Nebraska Lincoln,USA</item>
+        <item>Linfen,CHN</item>
+        <item>Linhai,CHN</item>
+        <item>Linhares,BRA</item>
+        <item>Linköping,SWE</item>
+        <item>Linqing,CHN</item>
+        <item>Linxia City Linxia,CHN</item>
+        <item>Linyi,CHN</item>
+        <item>Linz,AUT</item>
+        <item>Lipa City,PHL</item>
+        <item>Lipetsk,RUS</item>
+        <item>Lisbon,PRT</item>
+        <item>Lishui,CHN</item>
+        <item>Little Rock,USA</item>
+        <item>Liupanshui,CHN</item>
+        <item>Liuzhou,CHN</item>
+        <item>Liverpool,GBR</item>
+        <item>Livonia,Michigan Livonia,USA</item>
+        <item>Livorno,ITA</item>
+        <item>Ljubljana,SVN</item>
+        <item>Lleida,ESP</item>
+        <item>Lobito,AGO</item>
+        <item>Logroño,ESP</item>
+        <item>Loja,Ecuador Loja,ECU</item>
+        <item>Lomas de Zamora,ARG</item>
+        <item>Lomé,TGO</item>
+        <item>London,GBR</item>
+        <item>London,Ontario London,CAN</item>
+        <item>Londrina,BRA</item>
+        <item>Long Beach,California Long Beach,USA</item>
+        <item>Longjing,Jilin Longjing,CHN</item>
+        <item>Longkou,CHN</item>
+        <item>Longueuil,Quebec Longueuil,CAN</item>
+        <item>Longxuyen,VNM</item>
+        <item>Longyan,CHN</item>
+        <item>Los Angeles,California Los Angeles,USA</item>
+        <item>Los Ángeles,Chile Los Ángeles,CHL</item>
+        <item>Los Mochis,MEX</item>
+        <item>Los Teques,VEN</item>
+        <item>Loudi,CHN</item>
+        <item>Louisville,Kentucky Louisville,USA</item>
+        <item>Lowell,Massachusetts Lowell,USA</item>
+        <item>Lu'an,CHN</item>
+        <item>Luanda,AGO</item>
+        <item>Luanshya,ZMB</item>
+        <item>Lubbock,USA</item>
+        <item>Lübeck,DEU</item>
+        <item>Lublin,POL</item>
+        <item>Lubumbashi,COD</item>
+        <item>Lucena,Quezon Lucena City,PHL</item>
+        <item>Lucerne,CHE</item>
+        <item>Lucknow,IND</item>
+        <item>Ludhiana,IND</item>
+        <item>Ludwigshafen am Rhein,DEU</item>
+        <item>Luhansk,UKR</item>
+        <item>Luján de Cuyo,ARG</item>
+        <item>Luohe,CHN</item>
+        <item>Luoyang,CHN</item>
+        <item>Lusaka,ZMB</item>
+        <item>Luton,GBR</item>
+        <item>Lutsk,UKR</item>
+        <item>Luxembourg (city) Luxembourg,LUX</item>
+        <item>Luxor,EGY</item>
+        <item>Luzhou,CHN</item>
+        <item>Luziânia,BRA</item>
+        <item>Lviv,UKR</item>
+        <item>Lyon,FRA</item>
+        <item>Lysychansk,UKR</item>
+        <item>Lyubertsy,RUS</item>
+        <item>Ma'anshan,CHN</item>
+        <item>Maastricht,NLD</item>
+        <item>Maasin,PHL</item>
+        <item>Mabalacat,PHL</item>
+        <item>Macaé,BRA</item>
+        <item>Macapá,BRA</item>
+        <item>Macau,MAC</item>
+        <item>Maceió,BRA</item>
+        <item>Machakos,KEN</item>
+        <item>Machala,ECU</item>
+        <item>Macheng,CHN</item>
+        <item>Machida,Tokyo Machida,JPN</item>
+        <item>Machilipatnam,IND</item>
+        <item>Madison,Wisconsin Madison,USA</item>
+        <item>Madiun,IDN</item>
+        <item>Madrid,ESP</item>
+        <item>Madurai,IND</item>
+        <item>Maebashi,Gunma Maebashi,JPN</item>
+        <item>Magadan,RUS</item>
+        <item>Magangué,COL</item>
+        <item>Magdeburg,DEU</item>
+        <item>Magé,BRA</item>
+        <item>Magelang,IDN</item>
+        <item>Magnitogorsk,RUS</item>
+        <item>Mahabad and Piranshahr Mahabad,IRN</item>
+        <item>Mahbubnagar,IND</item>
+        <item>Maicao,COL</item>
+        <item>Maidstone,GBR</item>
+        <item>Maiduguri,NGA</item>
+        <item>Mainz,DEU</item>
+        <item>Makati,PHL</item>
+        <item>Makhachkala,RUS</item>
+        <item>Makiivka,UKR</item>
+        <item>Malabo,GNQ</item>
+        <item>Málaga,ESP</item>
+        <item>Malang,IDN</item>
+        <item>Malappuram,IND</item>
+        <item>Mehsana,IND</item>
+        <item>Malasiqui,Pangasinan,PHL</item>
+        <item>Malatya,TUR</item>
+        <item>Malaybalay,PHL</item>
+        <item>Malayer,IRN</item>
+        <item>Malegaon,IND</item>
+        <item>Malita,Davao del Sur,PHL</item>
+        <item>Malmö,SWE</item>
+        <item>Malolos City,PHL</item>
+        <item>Mamuju (city) Mamuju,IDN</item>
+        <item>Manado,IDN</item>
+        <item>Managua,NIC</item>
+        <item>Manama,BHR</item>
+        <item>Manaus,BRA</item>
+        <item>Manavgat,TUR</item>
+        <item>Manchester,New Hampshire,USA</item>
+        <item>Manchester,GBR</item>
+        <item>Mandalay,MYA</item>
+        <item>Mandaluyong,PHI</item>
+        <item>Mandaue,PHI</item>
+        <item>Mandya,IND</item>
+        <item>Mangalore,IND</item>
+        <item>Mangaung Metropolitan Municipality Mangaung,ZAF</item>
+        <item>Mingora Mangora,PAK</item>
+        <item>Manila,PHI</item>
+        <item>Manisa,TUR</item>
+        <item>Manizales,COL</item>
+        <item>Mannheim,DEU</item>
+        <item>Manta,Ecuador Manta,ECU</item>
+        <item>Manzhouli,CHN</item>
+        <item>Maoming,CHN</item>
+        <item>Maputo,MOZ</item>
+        <item>Mar del Plata,ARG</item>
+        <item>Marabá,Brazil Maraba,BRA</item>
+        <item>Maracaibo,VEN</item>
+        <item>Maracanau,BRA</item>
+        <item>Maracay,VEN</item>
+        <item>Maradi,Niger Maradi,NER</item>
+        <item>Maraqeh,IRN</item>
+        <item>Marawi,PHL</item>
+        <item>Mardan,PAK</item>
+        <item>Margilan,UZB</item>
+        <item>Maribor,SVN</item>
+        <item>Marilao,Bulacan,PHL</item>
+        <item>Marília,BRA</item>
+        <item>Maringá,BRA</item>
+        <item>Mariupol,UKR</item>
+        <item>Mariveles,Bataan,PHL</item>
+        <item>Markham,Ontario Markham,CAN</item>
+        <item>Marrakech,MAR</item>
+        <item>Marseille,FRA</item>
+        <item>Marvdasht,IRN</item>
+        <item>Masan,KOR</item>
+        <item>Masaya,NIC</item>
+        <item>Maseru,LSO</item>
+        <item>Mashhad,IRN</item>
+        <item>Masjed Soleyman,IRN</item>
+        <item>Matadi,COD</item>
+        <item>Matamoros,Tamaulipas,MEX</item>
+        <item>Matanzas,CUB</item>
+        <item>Mataró,ESP</item>
+        <item>Mathura,Uttar Pradesh Mathura,IND</item>
+        <item>Mati,Davao Oriental,PHL</item>
+        <item>Matsubara,JPN</item>
+        <item>Matsudo,JPN</item>
+        <item>Matsue,JPN</item>
+        <item>Matsumoto,Nagano Matsumoto,JPN</item>
+        <item>Matsusaka,JPN</item>
+        <item>Matsuyama,JPN</item>
+        <item>Maturín,VEN</item>
+        <item>Mauá,BRA</item>
+        <item>Maunath Bhanjan,IND</item>
+        <item>Mawlamyaing  (Moulmein),MYA</item>
+        <item>Mayagüez,Puerto Rico Mayagüez,PRI</item>
+        <item>Maykop,RUS</item>
+        <item>Mazari Sharif,AFG</item>
+        <item>Mazatlán,MEX</item>
+        <item>Mazyr,BLR</item>
+        <item>Mbabane,SWZ</item>
+        <item>Mbandaka,COD</item>
+        <item>Mbeya,TZA</item>
+        <item>Mbour,SEN</item>
+        <item>Mbuji-Mayi,COD</item>
+        <item>McAllen,Texas,USA</item>
+        <item>Mecca,SAU</item>
+        <item>Medan,IDN</item>
+        <item>Medea,Algeria Medea,DZA</item>
+        <item>Medellín,COL</item>
+        <item>Medina,SAU</item>
+        <item>Medinipur,IND</item>
+        <item>Meerut,IND</item>
+        <item>Meihekou,CHN</item>
+        <item>Meizhou,CHN</item>
+        <item>Mejicanos,SLV</item>
+        <item>Mekele,ETH</item>
+        <item>Meknes,MAR</item>
+        <item>Melbourne,AUS</item>
+        <item>Melitopol,UKR</item>
+        <item>Memphis,Tennessee,USA</item>
+        <item>Mendoza,Argentina Mendoza,ARG</item>
+        <item>Merca,SOM</item>
+        <item>Mérida,Mérida Mérida,VEN</item>
+        <item>Mérida,Yucatán Mérida,MEX</item>
+        <item>Mersin,TUR</item>
+        <item>Mesa,Arizona,USA</item>
+        <item>Mesquite,Texas,USA</item>
+        <item>Messad,DZA</item>
+        <item>Messina,ITA</item>
+        <item>Metepec,State of Mexico Metepec,MEX</item>
+        <item>Metz,FRA</item>
+        <item>Mexicali,MEX</item>
+        <item>Mexico City,MEX</item>
+        <item>Mexico,Pampanga,PHL</item>
+        <item>Meycauayan,PHL</item>
+        <item>Mezhdurechensk,Kemerovo Oblast Mezhdurechensk,RUS</item>
+        <item>Miami Miami,Florida,USA</item>
+        <item>Miami Gardens,Florida,USA</item>
+        <item>Mianyang,CHN</item>
+        <item>Miass,RUS</item>
+        <item>Michurinsk,RUS</item>
+        <item>Middlesbrough,GBR</item>
+        <item>Midsayap,Cotabato,PHL</item>
+        <item>Milagro,Ecuador Milagro,ECU</item>
+        <item>Milan,ITA</item>
+        <item>Milton Keynes,GBR</item>
+        <item>Miluo City Miluo,CHN</item>
+        <item>Milwaukee Milwaukee,Wisconsin,USA</item>
+        <item>Minatitlán,Veracruz Minatitlán,MEX</item>
+        <item>Minglanilla,Cebu,PHL</item>
+        <item>Minneapolis Minneapolis,Minnesota,USA</item>
+        <item>Minoh,JPN</item>
+        <item>Minsk,BLR</item>
+        <item>Mirpur Khas,PAK</item>
+        <item>Mirzapur-cum-Vindhyachal,IND</item>
+        <item>Misato,Saitama (city) Misato,JPN</item>
+        <item>Mishan,CHN</item>
+        <item>Mishima,Shizuoka Mishima,JPN</item>
+        <item>Miskolc,HUN</item>
+        <item>Mississauga,CAN</item>
+        <item>Misrata,LBY</item>
+        <item>Mitaka,JPN</item>
+        <item>Mito,Ibaraki Mito,JPN</item>
+        <item>Miyakonojo,JPN</item>
+        <item>Miyazaki,Miyazaki Miyazaki,JPN</item>
+        <item>Mobile,Alabama,USA</item>
+        <item>Modena,ITA</item>
+        <item>Modesto,California,USA</item>
+        <item>Modinagar,IND</item>
+        <item>Moers,DEU</item>
+        <item>Moga,Punjab Moga,IND</item>
+        <item>Mogadishu,SOM</item>
+        <item>Mogilev Mogilev (''Mahilyow''),BLR</item>
+        <item>Mogpo,KOR</item>
+        <item>Mogi das Cruzes,BRA</item>
+        <item>Mogi Guaçu,BRA</item>
+        <item>Mombasa,KEN</item>
+        <item>Monclova,MEX</item>
+        <item>Moncton,CAN</item>
+        <item>Monrovia,LBR</item>
+        <item>Montería,COL</item>
+        <item>Monterrey,MEX</item>
+        <item>Montes Claros,BRA</item>
+        <item>Montevideo,URY</item>
+        <item>Montgomery,Alabama,USA</item>
+        <item>Montpellier,FRA</item>
+        <item>Montreal,CAN</item>
+        <item>Montreuil,Seine-Saint-Denis Montreuil,FRA</item>
+        <item>Monywa,MMR</item>
+        <item>Monza,ITA</item>
+        <item>Moradabad,IND</item>
+        <item>Moratuwa,LKA</item>
+        <item>Morelia,MEX</item>
+        <item>Morena,IND</item>
+        <item>Moreno Valley,California,USA</item>
+        <item>Moriguchi,JPN</item>
+        <item>Morioka,JPN</item>
+        <item>Morogoro,TZA</item>
+        <item>Morvi,IND</item>
+        <item>Moscow,RUS</item>
+        <item>Mossoró,BRA</item>
+        <item>Mostaganem,DZA</item>
+        <item>Mostar,BIH</item>
+        <item>Móstoles,ESP</item>
+        <item>Mosul,IRQ</item>
+        <item>Mönchengladbach,DEU</item>
+        <item>M'Sila,DZA</item>
+        <item>Mudanjiang,CHN</item>
+        <item>Mufulira,ZMB</item>
+        <item>Mulhouse,FRA</item>
+        <item>Multan,PAK</item>
+        <item>Mumbai,IND</item>
+        <item>Munger,IND</item>
+        <item>Munich,DEU</item>
+        <item>Muntinlupa,PHL</item>
+        <item>Murcia,ESP</item>
+        <item>Murfreesboro,Tennessee,USA</item>
+        <item>Muridke,PAK</item>
+        <item>Murmansk,RUS</item>
+        <item>Murom,RUS</item>
+        <item>Muroran,JPN</item>
+        <item>Murwara,IND</item>
+        <item>Musashino,Tokyo Musashino,JPN</item>
+        <item>Muscat,Oman Muscat,OMN</item>
+        <item>Mushin,Nigeria Mushin,NGA</item>
+        <item>Mutare,ZWE</item>
+        <item>Muzaffargharh,PAK</item>
+        <item>Muzaffarnagar,IND</item>
+        <item>Muzaffarpur,IND</item>
+        <item>Mülheim an der Ruhr,DEU</item>
+        <item>Münster,DEU</item>
+        <item>Mwanza,TZA</item>
+        <item>Mykolaiv,UKR</item>
+        <item>Mymensingh,BGD</item>
+        <item>Mysore,IND</item>
+        <item>Mytho,VNM</item>
+        <item>Mytishchi,RUS</item>
+        <item>Nabadwip,IND</item>
+        <item>Naberezhnye Chelny,RUS</item>
+        <item>Nadiad,IND</item>
+        <item>Naga,Camarines Sur Naga,PHL</item>
+        <item>Nagano,Nagano Nagano,JPN</item>
+        <item>Nagaoka,Niigata Nagaoka,JPN</item>
+        <item>Nagareyama,Chiba Nagareyama,JPN</item>
+        <item>Nagasaki,JPN</item>
+        <item>Nagercoil,IND</item>
+        <item>Nagoya,JPN</item>
+        <item>Nagpur,IND</item>
+        <item>Naha,JPN</item>
+        <item>Naihati,IND</item>
+        <item>Nairobi,KEN</item>
+        <item>Najaf,IRQ</item>
+        <item>Najafabad,IRN</item>
+        <item>Nakhodka,RUS</item>
+        <item>Nakhon Pathom,THA</item>
+        <item>Nakhon Ratchasima,THA</item>
+        <item>Nakhon Sawan,THA</item>
+        <item>Nakhon Si Thammarat,THA</item>
+        <item>Nakuru,KEN</item>
+        <item>Nalchik,RUS</item>
+        <item>Namangan,UZB</item>
+        <item>Nam Định,VNM</item>
+        <item>Nampo,PRK</item>
+        <item>Nampula,MOZ</item>
+        <item>Namur,Belgium Namur,BEL</item>
+        <item>Nanchang,CHN</item>
+        <item>Nanchong,CHN</item>
+        <item>Nancy,France Nancy,FRA</item>
+        <item>Nanded,IND</item>
+        <item>Nandyal,IND</item>
+        <item>Nanjing,CHN</item>
+        <item>Nanning,CHN</item>
+        <item>Nanping,CHN</item>
+        <item>Nantes,FRA</item>
+        <item>Nantong,CHN</item>
+        <item>Nanyang,Henan Nanyang,CHN</item>
+        <item>Naperville,Illinois Naperville,USA</item>
+        <item>Napier-Hastings Urban Area Napier-Hastings,NZL</item>
+        <item>Naples,ITA</item>
+        <item>Nara,Nara Nara,JPN</item>
+        <item>Narashino,JPN</item>
+        <item>Narayanganj,BGD</item>
+        <item>Nasiriyah,IRQ</item>
+        <item>Nashik,IND</item>
+        <item>Nashville,Tennessee Nashville,USA</item>
+        <item>Nassau,Bahamas Nassau,BHS</item>
+        <item>Nasugbu,Batangas Nasugbu,PHL</item>
+        <item>Natal,Rio Grande do Norte Natal,BRA</item>
+        <item>Naucalpan,MEX</item>
+        <item>Navapolatsk,BLR</item>
+        <item>Navoiy,UZB</item>
+        <item>Navotas,PHL</item>
+        <item>Navsari,IND</item>
+        <item>Nawabganj (town) Nawabganj,BGD</item>
+        <item>Nawabshah,PAK</item>
+        <item>Nazilli,TUR</item>
+        <item>N'Djamena,TCD</item>
+        <item>Ndola,ZMB</item>
+        <item>Neftekamsk,RUS</item>
+        <item>Nefteyugansk,RUS</item>
+        <item>Neijiang,CHN</item>
+        <item>Neiva,Huila Neiva,COL</item>
+        <item>Nellore,IND</item>
+        <item>Netanya,ISR</item>
+        <item>Neuquén,ARG</item>
+        <item>Neuss,DEU</item>
+        <item>Nevinnomyssk,RUS</item>
+        <item>Navi Mumbai,IND</item>
+        <item>New Delhi,IND</item>
+        <item>New Haven,Connecticut New Haven,USA</item>
+        <item>Noida,IND</item>
+        <item>New Orleans,Louisiana New Orleans,USA</item>
+        <item>New York City New York,USA</item>
+        <item>Newark,New Jersey Newark,USA</item>
+        <item>Newcastle upon Tyne,GBR</item>
+        <item>Newcastle,New South Wales Newcastle,AUS</item>
+        <item>Newport,Wales Newport,GBR</item>
+        <item>Neyagawa,Osaka Neyagawa,JPN</item>
+        <item>Nishapur,IRN</item>
+        <item>Neyveli,IND</item>
+        <item>Ngerulmud,PLW</item>
+        <item>Nha Trang,VNM</item>
+        <item>Niamey,NER</item>
+        <item>Nice,FRA</item>
+        <item>Nicosia,CYP</item>
+        <item>Niigata,Niigata Niigata,JPN</item>
+        <item>Niihama,Ehime Niihama,JPN</item>
+        <item>Niiza,Saitama Niiza,JPN</item>
+        <item>Nijmegen,NLD</item>
+        <item>Nikopol,Dnipropetrovsk Oblast Nikopol,UKR</item>
+        <item>Nilópolis,BRA</item>
+        <item>Nîmes,FRA</item>
+        <item>Ningbo,CHN</item>
+        <item>Ningde,CHN</item>
+        <item>Niš,SRB</item>
+        <item>Nishinomiya,JPN</item>
+        <item>Nishio,Aichi Nishio,JPN</item>
+        <item>Niterói,BRA</item>
+        <item>Nizamabad,Telangana Nizamabad,IND</item>
+        <item>Nizhnevartovsk,RUS</item>
+        <item>Nizhnekamsk,RUS</item>
+        <item>Nizhny Novgorod,RUS</item>
+        <item>Nizhny Tagil,RUS</item>
+        <item>Nobeoka,Miyazaki Nobeoka,JPN</item>
+        <item>Noda,Chiba Noda,JPN</item>
+        <item>Nogales,Sonora Nogales,MEX</item>
+        <item>Noginsk,RUS</item>
+        <item>Nonthaburi (city) Nonthaburi,THA</item>
+        <item>Norilsk,RUS</item>
+        <item>Norman,Oklahoma Norman,USA</item>
+        <item>Norrköping,SWE</item>
+        <item>North Las Vegas,Nevada North Las Vegas,USA</item>
+        <item>Northampton,GBR</item>
+        <item>Norwalk,California Norwalk,USA</item>
+        <item>Norwich,GBR</item>
+        <item>Norzagaray,Bulacan,PHL</item>
+        <item>Nossa Senhora do Socorro,BRA</item>
+        <item>Nottingham,GBR</item>
+        <item>Nouakchott,MRT</item>
+        <item>Nova Friburgo,BRA</item>
+        <item>Nova Iguaçu,BRA</item>
+        <item>Novara,ITA</item>
+        <item>Novi Sad,SRB</item>
+        <item>Novo Hamburgo,BRA</item>
+        <item>Novocheboksarsk,RUS</item>
+        <item>Novocherkassk,RUS</item>
+        <item>Novokuybyshevsk,RUS</item>
+        <item>Novokuznetsk,RUS</item>
+        <item>Novomoskovsk,Russia Novomoskovsk,RUS</item>
+        <item>Novorossiysk,RUS</item>
+        <item>Novoshakhtinsk,RUS</item>
+        <item>Novosibirsk,RUS</item>
+        <item>Novotroitsk,RUS</item>
+        <item>Novy Urengoy,RUS</item>
+        <item>Noyabrsk,RUS</item>
+        <item>Nuevo Laredo,MEX</item>
+        <item>Nukus,UZB</item>
+        <item>Numazu,Shizuoka Numazu,JPN</item>
+        <item>Nuremberg,DEU</item>
+        <item>Nyala,Sudan Nyala,SDN</item>
+        <item>Nyíregyháza,HUN</item>
+        <item>Oakland,California Oakland,USA</item>
+        <item>Oakville,Ontario Oakville,CAN</item>
+        <item>Oaxaca,Oaxaca Oaxaca de Juárez,MEX</item>
+        <item>Oberhausen,DEU</item>
+        <item>Obihiro,Hokkaido Obihiro,JPN</item>
+        <item>Obninsk,RUS</item>
+        <item>Oceanside,California Oceanside,USA</item>
+        <item>Odawara,JPN</item>
+        <item>Odense,DNK</item>
+        <item>Odesa,UKR</item>
+        <item>Odintsovo,RUS</item>
+        <item>Offenbach am Main,DEU</item>
+        <item>Ōgaki,Gifu Ōgaki,JPN</item>
+        <item>Ogbomosho,NGA</item>
+        <item>Ōita,Ōita Ōita,JPN</item>
+        <item>Okara,Pakistan Okara,PAK</item>
+        <item>Okayama,JPN</item>
+        <item>Okazaki,Aichi Okazaki,JPN</item>
+        <item>Okene,NGA</item>
+        <item>Okinawa,Okinawa Okinawa,JPN</item>
+        <item>Oklahoma City,USA</item>
+        <item>Oktyabrsky,Republic of Bashkortostan Oktyabrsky,RUS</item>
+        <item>Oldenburg,DEU</item>
+        <item>Oldham,GBR</item>
+        <item>Olinda,BRA</item>
+        <item>Olmaliq,UZB</item>
+        <item>Olomouc,CZE</item>
+        <item>Olongapo,PHL</item>
+        <item>Olsztyn,POL</item>
+        <item>Omaha,Nebraska Omaha,USA</item>
+        <item>Omdurman,SDN</item>
+        <item>Omsk,RUS</item>
+        <item>Ōmuta,Fukuoka Ōmuta,JPN</item>
+        <item>Ongole,IND</item>
+        <item>Onitsha,NGA</item>
+        <item>Ontario,California Ontario,USA</item>
+        <item>Opole,POL</item>
+        <item>Or Yehuda,ISR</item>
+        <item>Oradea,ROM</item>
+        <item>Oral,Kazakhstan Oral,KAZ</item>
+        <item>Oran,DZA</item>
+        <item>Orange,California Orange,USA</item>
+        <item>Ordos City,CHN</item>
+        <item>Ordu,TUR</item>
+        <item>Örebro,SWE</item>
+        <item>Orekhovo-Zuyevo,RUS</item>
+        <item>Orenburg,RUS</item>
+        <item>Orizaba,MEX</item>
+        <item>Orlando,Florida Orlando,USA</item>
+        <item>Orléans,FRA</item>
+        <item>Ormoc,PHL</item>
+        <item>Orsha,BLR</item>
+        <item>Orsk,RUS</item>
+        <item>Oruro,Bolivia Oruro,BOL</item>
+        <item>Oryol,RUS</item>
+        <item>Osaka,JPN</item>
+        <item>Osasco,BRA</item>
+        <item>Osh,KGZ</item>
+        <item>Oshawa,CAN</item>
+        <item>Oshogbo,NGA</item>
+        <item>Osijek,HRV</item>
+        <item>Oslo,NOR</item>
+        <item>Osmaniye,TUR</item>
+        <item>Osnabrück,DEU</item>
+        <item>Osorno,Chile Osorno,CHL</item>
+        <item>Ostrava,CZE</item>
+        <item>Ōta,Gunma Ōta,JPN</item>
+        <item>Otaru,Hokkaido Otaru,JPN</item>
+        <item>Ōtsu,JPN</item>
+        <item>Ottawa,CAN</item>
+        <item>Ouagadougou,BFA</item>
+        <item>Ouargla,DZA</item>
+        <item>Oujda,MAR</item>
+        <item>Oulu,FIN</item>
+        <item>Ourense,ESP</item>
+        <item>Ouricuri,BRA</item>
+        <item>Overland Park,Kansas Overland,USA</item>
+        <item>Oviedo,ESP</item>
+        <item>Oxford,GBR</item>
+        <item>Oxnard,California Oxnard,USA</item>
+        <item>Oyama,Tochigi Oyama,JPN</item>
+        <item>Oyo,Nigeria Oyo,NGA</item>
+        <item>Ozamiz,PHL</item>
+        <item>Paarl,RSA</item>
+        <item>Pabna,BGD</item>
+        <item>Pachuca,MEX</item>
+        <item>Padang,Indonesia Padang,IDN</item>
+        <item>Paderborn,DEU</item>
+        <item>Padua,ITA</item>
+        <item>Pagadian City,PHL</item>
+        <item>Pago Pago Pago Pago,American Samoa,USA</item>
+        <item>Paita,PER</item>
+        <item>Pakalongan,IDN</item>
+        <item>Pakan Baru,IDN</item>
+        <item>Pakpattan,PAK</item>
+        <item>Palakkad,IND</item>
+        <item>Palangkaraya,IDN</item>
+        <item>Palembang,IDN</item>
+        <item>Palermo,ITA</item>
+        <item>Pali,Rajasthan Pali,IND</item>
+        <item>Palma de Mallorca,ESP</item>
+        <item>Palmas,Tocantins Palmas,BRA</item>
+        <item>Palmdale,California,USA</item>
+        <item>Palmira,Valle del Cauca Palmira,COL</item>
+        <item>Palu,IDN</item>
+        <item>Pamplona,ESP</item>
+        <item>Panabo City,PHL</item>
+        <item>Panama City,PAN</item>
+        <item>Pančevo,SRB</item>
+        <item>Panevėžys,LTU</item>
+        <item>Panihati,IND</item>
+        <item>Panipat,IND</item>
+        <item>Panjin,CHN</item>
+        <item>Panzhihua,CHN</item>
+        <item>Papeete,FRA</item>
+        <item>Paradise,Nevada,USA</item>
+        <item>Parakou,BEN</item>
+        <item>Paramaribo,SUR</item>
+        <item>Paraná,Entre Ríos Paraná,ARG</item>
+        <item>Paranaguá,BRA</item>
+        <item>Parang,Maguindanao,PHL</item>
+        <item>Parbhani,IND</item>
+        <item>Pardubice,CZE</item>
+        <item>Paris,FRA</item>
+        <item>Parla,ESP</item>
+        <item>Pasadena,California,USA</item>
+        <item>Patos de Minas,BRA</item>
+        <item>Patna,IND</item>
+        <item>Patras,GRC</item>
+        <item>Patratu,IND</item>
+        <item>Paulista,BRA</item>
+        <item>Pavlodar,KAZ</item>
+        <item>Pavlohrad,UKR</item>
+        <item>Pécs,HUN</item>
+        <item>Pelotas,BRA</item>
+        <item>Pematang Siantar,IDN</item>
+        <item>Pembroke Pines,Florida,USA</item>
+        <item>Penza,RUS</item>
+        <item>Peoria,Arizona,USA</item>
+        <item>Peoria,Illinois,USA</item>
+        <item>Pereira,Risaralda Pereira,COL</item>
+        <item>Peristeri,GRC</item>
+        <item>Perm,RUS</item>
+        <item>Perpignan,FRA</item>
+        <item>Perth,Western Australia Perth,AUS</item>
+        <item>Perugia,ITA</item>
+        <item>Pervouralsk,RUS</item>
+        <item>Pescara,ITA</item>
+        <item>Peshawar,PAK</item>
+        <item>Petah Tikva,ISR</item>
+        <item>Petaling Jaya,MYS</item>
+        <item>Petare,VEN</item>
+        <item>Peterborough,GBR</item>
+        <item>Petrolina,BRA</item>
+        <item>Petropavl,KAZ</item>
+        <item>Petropavlovsk-Kamchatsky,RUS</item>
+        <item>Petrópolis,BRA</item>
+        <item>Petrozavodsk,RUS</item>
+        <item>Pforzheim,DEU</item>
+        <item>Philadelphia,Pennsylvania,USA</item>
+        <item>Phuket city Phuket,THA</item>
+        <item>Phnom Penh,KHM</item>
+        <item>Phoenix,Arizona,USA</item>
+        <item>Phusro,IND</item>
+        <item>Phyongsong,PRK</item>
+        <item>Piatra Neamţ,ROU</item>
+        <item>Pietermaritzburg,ZAF</item>
+        <item>Pikine,SEN</item>
+        <item>Pilibhit,IND</item>
+        <item>Pinar del Río,CUB</item>
+        <item>Pindamonhangaba,BRA</item>
+        <item>Pingdingshan,CHN</item>
+        <item>Pingdu,CHN</item>
+        <item>Pingliang,CHN</item>
+        <item>Pingxiang,CHN</item>
+        <item>Pinhais,BRA</item>
+        <item>Pinsk,BLR</item>
+        <item>Piracicaba,BRA</item>
+        <item>Piraeus,GRC</item>
+        <item>Pir Mahal,PAK</item>
+        <item>Piteşti,ROU</item>
+        <item>Pittsburgh,Pennsylvania,USA</item>
+        <item>Piura,PER</item>
+        <item>Plano,Texas,USA</item>
+        <item>Pleven,BGR</item>
+        <item>Płock,POL</item>
+        <item>Ploieşti,ROU</item>
+        <item>Plovdiv,BGR</item>
+        <item>Plymouth,GBR</item>
+        <item>Plzeň,CZE</item>
+        <item>Poços de Caldas,BRA</item>
+        <item>Podgorica,MNE</item>
+        <item>Podolsk,RUS</item>
+        <item>Pohang,KOR</item>
+        <item>Pointe-Noire,COG</item>
+        <item>Pollachi,IND</item>
+        <item>Polomolok,South Cotabato,PHL</item>
+        <item>Poltava,UKR</item>
+        <item>Pomona,California,USA</item>
+        <item>Ponce,Puerto Rico Ponce,USA</item>
+        <item>Pondicherry (city) Pondicherry,IND</item>
+        <item>Ponta Grossa,BRA</item>
+        <item>Pontianak,Indonesia Pontianak,IDN</item>
+        <item>Poole,GBR</item>
+        <item>Popayán,COL</item>
+        <item>Porac,Pampanga,PHL</item>
+        <item>Porbandar,IND</item>
+        <item>Port Elizabeth,ZAF</item>
+        <item>Port Harcourt,NGA</item>
+        <item>Port Louis,MUS</item>
+        <item>Port Moresby,PNG</item>
+        <item>Port Said,EGY</item>
+        <item>Port Sudan,SDN</item>
+        <item>Port-au-Prince,HTI</item>
+        <item>Portland,Oregon,USA</item>
+        <item>Porto Alegre,BRA</item>
+        <item>Porto Novo,BEN</item>
+        <item>Porto Velho,BRA</item>
+        <item>Porto,PRT</item>
+        <item>Portoviejo,ECU</item>
+        <item>Portsmouth,GBR</item>
+        <item>Posadas,Misiones Posadas,ARG</item>
+        <item>Potosí,BOL</item>
+        <item>Potsdam,DEU</item>
+        <item>Pouso Alegre,BRA</item>
+        <item>Poza Rica de Hidalgo,MEX</item>
+        <item>Poznań,POL</item>
+        <item>Prague,CZE</item>
+        <item>Praia Grande,BRA</item>
+        <item>Praia,CPV</item>
+        <item>Prato,ITA</item>
+        <item>Presidente Prudente,São Paulo Presidente Prudente,BRA</item>
+        <item>City of Preston,Lancashire Preston,GBR</item>
+        <item>Pretoria,ZAF</item>
+        <item>Prijedor,BIH</item>
+        <item>Pristina,XKX</item>
+        <item>Probolinggo,IDN</item>
+        <item>Proddatur,IND</item>
+        <item>Prokopyevsk,RUS</item>
+        <item>Providence,Rhode Island,USA</item>
+        <item>Provo,Utah,USA</item>
+        <item>Pskov,RUS</item>
+        <item>Pucallpa,PER</item>
+        <item>Puebla de Zaragoza,MEX</item>
+        <item>Pueblo,Colorado,USA</item>
+        <item>Puente Alto,Chile Puente Alto,CHL</item>
+        <item>Puerto Cabello,VEN</item>
+        <item>Puerto Montt,Chile Puerto Montt,CHL</item>
+        <item>Puerto Princesa City,PHL</item>
+        <item>Puli Khumri,AFG</item>
+        <item>Pune,IND</item>
+        <item>Puno,PER</item>
+        <item>Punta Arenas,Chile Punta Arenas,CHL</item>
+        <item>Punto Fijo,VEN</item>
+        <item>Puri,IND</item>
+        <item>Purnia,IND</item>
+        <item>Putian,CHN</item>
+        <item>Puyang,CHN</item>
+        <item>Pyatigorsk,RUS</item>
+        <item>Pyongyang,PRK</item>
+        <item>Qaem Shahr Qā’em Shahr,IRN</item>
+        <item>Qamishli,SYR</item>
+        <item>Qarchak,IRN</item>
+        <item>Qazvin,IRN</item>
+        <item>Qianjiang,Hubei Qianjiang,CHN</item>
+        <item>Qidong City Qidong,CHN</item>
+        <item>Qingdao,CHN</item>
+        <item>Qingtongxia,CHN</item>
+        <item>Qingyang,CHN</item>
+        <item>Qingyuan,CHN</item>
+        <item>Qingzhou,CHN</item>
+        <item>Qinhuangdao,CHN</item>
+        <item>Qinyang,CHN</item>
+        <item>Qinzhou,CHN</item>
+        <item>Qiqihaer,CHN</item>
+        <item>Qitaihe,CHN</item>
+        <item>Qom,IRN</item>
+        <item>Quanzhou,CHN</item>
+        <item>Quebec City,CAN</item>
+        <item>Queimados,BRA</item>
+        <item>Querétaro,MEX</item>
+        <item>Quetta,PAK</item>
+        <item>Quetzaltenango,GUA</item>
+        <item>Quevedo,Ecuador Quevedo,ECU</item>
+        <item>Quezon City,PHL</item>
+        <item>Qufu,CHN</item>
+        <item>Qui Nhon,VNM</item>
+        <item>Quilmes,ARG</item>
+        <item>Quilpué,CHL</item>
+        <item>Quito,ECU</item>
+        <item>Qujing,CHN</item>
+        <item>Quzhou,CHN</item>
+        <item>Rabat,MAR</item>
+        <item>Rạch Giá,VNM</item>
+        <item>Radom,POL</item>
+        <item>Raebareli,IND</item>
+        <item>Rahim Yar Khan,PAK</item>
+        <item>Raichur,IND</item>
+        <item>Raiganj,IND</item>
+        <item>Raipur,IND</item>
+        <item>Rajahmundry,IND</item>
+        <item>Rajapalayam,IND</item>
+        <item>Rajkot,IND</item>
+        <item>Rajnandgaon,IND</item>
+        <item>Rajshahi,BGD</item>
+        <item>Raleigh,North Carolina Raleigh,USA</item>
+        <item>Ramadi,IRQ</item>
+        <item>Ramagundam,IND</item>
+        <item>Ramat Gan,ISR</item>
+        <item>Râmnicu Vâlcea,ROM</item>
+        <item>Rampur,Uttar Pradesh Rampur,IND</item>
+        <item>Ranaghat,IND</item>
+        <item>Rancagua,CHL</item>
+        <item>Ranchi,IND</item>
+        <item>Rancho Cucamonga,California Rancho Cucamonga,USA</item>
+        <item>Rangpur City Rangpur,BGD</item>
+        <item>Raniganj,IND</item>
+        <item>Rasht,IRN</item>
+        <item>Ratlam,IND</item>
+        <item>Rourkela,IND</item>
+        <item>Ravenna,ITA</item>
+        <item>Rawalpindi,PAK</item>
+        <item>Rayong,THA</item>
+        <item>Reading,Berkshire Reading,GBR</item>
+        <item>Recife,BRA</item>
+        <item>Recklinghausen,DEU</item>
+        <item>Regensburg,DEU</item>
+        <item>Reggio Calabria,ITA</item>
+        <item>Regina,Saskatchewan Regina,CAN</item>
+        <item>Rehovot,ISR</item>
+        <item>Reims,FRA</item>
+        <item>Relizane,DZA</item>
+        <item>Remscheid,DEU</item>
+        <item>Rennes,FRA</item>
+        <item>Reno,Nevada Reno,USA</item>
+        <item>Renqiu,CHN</item>
+        <item>Resende,Rio de Janeiro Resende,BRA</item>
+        <item>Resistencia,Chaco Resistencia,ARG</item>
+        <item>Reutlingen,DEU</item>
+        <item>Rewa,Madhya Pradesh Rewa,IND</item>
+        <item>Reykjavík,ISL</item>
+        <item>Reynosa,MEX</item>
+        <item>Ribeirão das Neves,BRA</item>
+        <item>Ribeirão Pires,BRA</item>
+        <item>Ribeirão Preto,BRA</item>
+        <item>Richmond Hill,Ontario Richmond Hill,CAN</item>
+        <item>Richmond,British Columbia Richmond,CAN</item>
+        <item>Richmond,Virginia Richmond,USA</item>
+        <item>Riga,LAT</item>
+        <item>Rijeka,HRV</item>
+        <item>Rimini,ITA</item>
+        <item>Rio Branco,Acre Rio Branco,BRA</item>
+        <item>Rio Claro,São Paulo Rio Claro,BRA</item>
+        <item>Río Cuarto,Córdoba Rio Cuarto,ARG</item>
+        <item>Rio de Janeiro,BRA</item>
+        <item>Rio Grande,Rio Grande do Sul Rio Grande,BRA</item>
+        <item>Rio Verde,Goiás Rio Verde,BRA</item>
+        <item>Riobamba,ECU</item>
+        <item>Rishon LeZion,ISR</item>
+        <item>Riverside,California Riverside,USA</item>
+        <item>Rivne,UKR</item>
+        <item>Riyadh,SAU</item>
+        <item>Rizhao,CHN</item>
+        <item>Rochdale,GBR</item>
+        <item>Rochester,Minnesota,USA</item>
+        <item>Rochester,New York,USA</item>
+        <item>Rockford,Illinois Rockford,USA</item>
+        <item>Rodriguez,Rizal Rodriguez,PHL</item>
+        <item>Rohtak,IND</item>
+        <item>Rome,ITA</item>
+        <item>Rondonópolis,BRA</item>
+        <item>Rongcheng,Shandong Rongcheng,CHN</item>
+        <item>Roodepoort,ZAF</item>
+        <item>Rosario,Santa Fe Rosario,ARG</item>
+        <item>Rostock,DEU</item>
+        <item>Rostov-on-Don,RUS</item>
+        <item>Rotherham,GBR</item>
+        <item>Rotterdam,NLD</item>
+        <item>Rouen,FRA</item>
+        <item>Ruse,Bulgaria Ruse,BGR</item>
+        <item>Roxas,Capiz Roxas,PHL</item>
+        <item>Rubtsovsk,RUS</item>
+        <item>Ruda Śląska,POL</item>
+        <item>Rudny,Kazakhstan Rudny,KAZ</item>
+        <item>Rui'an,CHN</item>
+        <item>Ruichang,CHN</item>
+        <item>Russeifa,JOR</item>
+        <item>Rustavi,GEO</item>
+        <item>Ruzhou,CHN</item>
+        <item>Ryazan,RUS</item>
+        <item>Rybinsk,RUS</item>
+        <item>Rybnik,POL</item>
+        <item>Rzeszów,POL</item>
+        <item>Saanich,British Columbia Saanich,CAN</item>
+        <item>Saarbrücken,DEU</item>
+        <item>Sabadell,ESP</item>
+        <item>Sabára,BRA</item>
+        <item>Sabzewar,IRN</item>
+        <item>Sacramento,California,USA</item>
+        <item>Sadiqabad,Punjab Sadiqabad,PAK</item>
+        <item>Safi,Morocco Safi,MAR</item>
+        <item>Saga,Saga Saga,JPN</item>
+        <item>Sagamihara,JPN</item>
+        <item>Sagar,Madhya Pradesh Sagar,IND</item>
+        <item>Sagay City,PHL</item>
+        <item>Saguenay,Quebec Saguenay,CAN</item>
+        <item>Saharanpur,IND</item>
+        <item>Sahiwal,PAK</item>
+        <item>Saida,Algeria Saida,DZA</item>
+        <item>Saidpur,Rajshahi Division Saidpur,BGD</item>
+        <item>Saint Petersburg,RUS</item>
+        <item>Saint-Denis,Réunion Saint-Denis,REU</item>
+        <item>Saint-Étienne,FRA</item>
+        <item>Saint John,New Brunswick Saint John,CAN</item>
+        <item>Saint-Louis,Senegal Saint Louis,SEN</item>
+        <item>Saint-Paul,Réunion Saint-Paul,REU</item>
+        <item>Saitama,Saitama Saitama,JPN</item>
+        <item>Sakai,Osaka,JPN</item>
+        <item>Sakata,Yamagata Sakata,JPN</item>
+        <item>Sakura,Chiba,JPN</item>
+        <item>Salamanca,Guanajuato Salamanca,MEX</item>
+        <item>Salamanca,ESP</item>
+        <item>Salavat,Russia Salavat,RUS</item>
+        <item>Salé,MAR</item>
+        <item>Salem,Oregon,USA</item>
+        <item>Salem,Tamil Nadu Salem,IND</item>
+        <item>Salerno,ITA</item>
+        <item>Salihorsk,BLR</item>
+        <item>Salinas,California,USA</item>
+        <item>Salt Lake City,Utah,USA</item>
+        <item>Salta,ARG</item>
+        <item>Saltillo,MEX</item>
+        <item>Salvador,Bahia Salvador,BRA</item>
+        <item>Salzburg,AUT</item>
+        <item>Salzgitter,DEU</item>
+        <item>Samara,Russia Samara,RUS</item>
+        <item>Samarinda,IDN</item>
+        <item>Samarkand,UZB</item>
+        <item>Sambalpur,IND</item>
+        <item>Sambhal,IND</item>
+        <item>Samsun,TUR</item>
+        <item>San Antonio,Texas,USA</item>
+        <item>San Bernardino,California,USA</item>
+        <item>San Bernardo,Chile San Bernardo,CHL</item>
+        <item>San Buenaventura,California,USA</item>
+        <item>San Carlos City,Negros Occidental,PHL</item>
+        <item>San Carlos City,Pangasinan,PHL</item>
+        <item>San Cristóbal,Dominican Republic San Cristóbal,DOM</item>
+        <item>San Cristóbal de Las Casas,MEX</item>
+        <item>San Diego,California,USA</item>
+        <item>San Fernando City,La Union,PHL</item>
+        <item>San Fernando City,Pampanga,PHL</item>
+        <item>San Fernando del Valle de Catamarca,ARG</item>
+        <item>San Francisco,California,USA</item>
+        <item>San José (Costa Rica) San José,CRI</item>
+        <item>San Jose City,Nueva Ecija,PHL</item>
+        <item>San Jose del Monte City,PHL</item>
+        <item>San Jose,California,USA</item>
+        <item>San Jose,Occidental Mindoro,PHL</item>
+        <item>San Juan,Argentina,ARG</item>
+        <item>San Juan,Puerto Rico,PRI</item>
+        <item>San Juan City,Metro Manila,PHL</item>
+        <item>San Lorenzo (Paraguay) San Lorenzo,PRY</item>
+        <item>San Luis Potosí,MEX</item>
+        <item>San Luis,Argentina San Luis,ARG</item>
+        <item>San Martín,San Salvador San Martin,SLV</item>
+        <item>San Mateo,Rizal,PHL</item>
+        <item>San Miguel,El Salvador San Miguel,SLV</item>
+        <item>San Miguel de Tucumán,ARG</item>
+        <item>San Miguel,Bulacan,PHL</item>
+        <item>San Miguelito District San Miguelito,PAN</item>
+        <item>San Nicolás de los Arroyos San Nicolás,ARG</item>
+        <item>San Nicolás de los Garzas,MEX</item>
+        <item>San Pablo,Laguna San Pablo City,PHL</item>
+        <item>San Pedro de Macoris,DOM</item>
+        <item>San Pedro Sula,HND</item>
+        <item>San Pedro,Laguna,PHL</item>
+        <item>San Rafael,Mendoza San Rafael,ARG</item>
+        <item>San Salvador de Jujuy,ARG</item>
+        <item>San Salvador,SLV</item>
+        <item>San Sebastián,ESP</item>
+        <item>Sana'a,YEM</item>
+        <item>Sanandaj,IRN</item>
+        <item>Sancti Spíritus,CUB</item>
+        <item>Sanda,Hyogo Sanda,JPN</item>
+        <item>Sandakan,MYS</item>
+        <item>Sangli,IND</item>
+        <item>Şanlıurfa,TUR</item>
+        <item>Sanmenxia,CHN</item>
+        <item>Sanming,CHN</item>
+        <item>Santa Ana,California,USA</item>
+        <item>Santa Bárbara d'Oeste,BRA</item>
+        <item>Santa Clara,California,USA</item>
+        <item>Santa Clara,Cuba Santa Clara,CUB</item>
+        <item>Santa Clarita,California,USA</item>
+        <item>Santa Coloma de Gramanet,ESP</item>
+        <item>Santa Cruz de la Sierra,BOL</item>
+        <item>Santa Cruz de Tenerife,ESP</item>
+        <item>Santa Cruz do Sul,BRA</item>
+        <item>Santa Cruz,Laguna,PHL</item>
+        <item>Santa Fe de Bogotá,COL</item>
+        <item>Santa Fe,Argentina Santa Fe,ARG</item>
+        <item>Santa Luzia,Minas Gerais,BRA</item>
+        <item>Santa Maria,California,USA</item>
+        <item>Santa Maria,Bulacan,PHL</item>
+        <item>Santa Marta,COL</item>
+        <item>Santa Rita,Paraíba Santa Rita,BRA</item>
+        <item>Santa Rosa,California,USA</item>
+        <item>Santa Rosa,Laguna Santa Rosa City,PHL</item>
+        <item>Santander,Cantabria Santander,ESP</item>
+        <item>Santarém,Brazil,BRA</item>
+        <item>Santiago,Chile Santiago,CHL</item>
+        <item>Santiago,Isabela Santiago City,PHL</item>
+        <item>Santiago de Cuba,CUB</item>
+        <item>Santiago de los Caballeros,DOM</item>
+        <item>Santiago del Estero,ARG</item>
+        <item>Santipur,IND</item>
+        <item>Santo André,BRA</item>
+        <item>Santo Domingo de los Colorados,ECU</item>
+        <item>Santo Domingo,DOM</item>
+        <item>Santo Tomas,Batangas,PHL</item>
+        <item>Santos (São Paulo) Santos,BRA</item>
+        <item>Sanya,CHN</item>
+        <item>São Bernardo do Campo,BRA</item>
+        <item>São Caetano do Sul,BRA</item>
+        <item>São Carlos,BRA</item>
+        <item>São Gonçalo,Rio de Janeiro São Gonçalo,BRA</item>
+        <item>São João de Meriti,BRA</item>
+        <item>São José de Ribamar,BRA</item>
+        <item>São José do Rio Preto,BRA</item>
+        <item>São José dos Campos,BRA</item>
+        <item>São José dos Pinhais,BRA</item>
+        <item>São José,Santa Catarina São José,BRA</item>
+        <item>São Leopoldo,BRA</item>
+        <item>São Luís,Maranhão São Luís,BRA</item>
+        <item>São Paulo,BRA</item>
+        <item>São Vicente,São Paulo São Vicente,BRA</item>
+        <item>Sapporo,JPN</item>
+        <item>Sapucaia do Sul,BRA</item>
+        <item>Saqez,IRN</item>
+        <item>Saraburi,THA</item>
+        <item>Sarajevo,BIH</item>
+        <item>Saransk,RUS</item>
+        <item>Sarapul,RUS</item>
+        <item>Saratov,RUS</item>
+        <item>Sar-e Pol (city) Sar-e Pol,AFG</item>
+        <item>Sargodha,PAK</item>
+        <item>Sari,Iran Sari,IRN</item>
+        <item>Sariaya,Quezon,PHL</item>
+        <item>Sariwon,PRK</item>
+        <item>Sasebo,Nagasaki Sasebo,JPN</item>
+        <item>Saskatoon,CAN</item>
+        <item>Sassari,ITA</item>
+        <item>Satna,IND</item>
+        <item>Satu Mare,ROU</item>
+        <item>Savannah,Georgia,USA</item>
+        <item>Sayama,JPN</item>
+        <item>Schwerin,DEU</item>
+        <item>Scottsdale,Arizona,USA</item>
+        <item>Seam Reab,KHM</item>
+        <item>Seattle,USA</item>
+        <item>Sabha,Libya Sabha,LBY</item>
+        <item>Sekondi-Takoradi,GHA</item>
+        <item>Seleyang Baru,MYS</item>
+        <item>Semarang,IDN</item>
+        <item>Semipalatinsk,KAZ</item>
+        <item>Sendai,JPN</item>
+        <item>Seongnam,KOR</item>
+        <item>Seoul,KOR</item>
+        <item>Serampore,IND</item>
+        <item>Seremban,MYS</item>
+        <item>Sergiyev Posad,RUS</item>
+        <item>Serpukhov,RUS</item>
+        <item>Serra,Espírito Santo Serra,BRA</item>
+        <item>Sertaozinho,BRA</item>
+        <item>Sete Lagoas,BRA</item>
+        <item>Setif,DZA</item>
+        <item>Seto,Aichi Seto,JPN</item>
+        <item>Severodvinsk,RUS</item>
+        <item>Seversk,RUS</item>
+        <item>Seville,ESP</item>
+        <item>Sfax,TUN</item>
+        <item>Shah Alam,MYS</item>
+        <item>Shahe,Hebei Shahe,CHN</item>
+        <item>Shahjahanpur,IND</item>
+        <item>Shahrak-e Gharb,IRN</item>
+        <item>Shahrekord,IRN</item>
+        <item>Shahrud,Iran Shahrud,IRN</item>
+        <item>Shakhty,RUS</item>
+        <item>Shanghai,CHN</item>
+        <item>Shangluo,CHN</item>
+        <item>Shangqiu,CHN</item>
+        <item>Shangrao,CHN</item>
+        <item>Shangzhi,CHN</item>
+        <item>Shantou,CHN</item>
+        <item>Shanwei,CHN</item>
+        <item>Shaoguan,CHN</item>
+        <item>Shaowu,CHN</item>
+        <item>Shaoxing,CHN</item>
+        <item>Shaoyang,CHN</item>
+        <item>Sharjah (city) Sharjah,ARE</item>
+        <item>Shchyolkovo,RUS</item>
+        <item>Sheberghan,AFG</item>
+        <item>Sheffield,GBR</item>
+        <item>Sheikhu Pura,PAK</item>
+        <item>Sheopur,IND</item>
+        <item>Shenyang,CHN</item>
+        <item>Shenzhen,CHN</item>
+        <item>Sherbrooke,CAN</item>
+        <item>Shibin el-Kom,EGY</item>
+        <item>Shihezi,CHN</item>
+        <item>Shihung,KOR</item>
+        <item>Shijiazhuang,CHN</item>
+        <item>Shikarpur (Pakistan) Shikarpur,PAK</item>
+        <item>Shillong,IND</item>
+        <item>Shimizu-ku,Shizuoka Shimizu,JPN</item>
+        <item>Shymkent,KAZ</item>
+        <item>Shimla,IND</item>
+        <item>Shimoga,IND</item>
+        <item>Shimonoseki,JPN</item>
+        <item>Shinyanga,TZA</item>
+        <item>Shiraz,IRN</item>
+        <item>Shishi City,CHN</item>
+        <item>Shishou,CHN</item>
+        <item>Shivpuri,IND</item>
+        <item>Shiyan,CHN</item>
+        <item>Shizuishan,CHN</item>
+        <item>Shizuoka City Shizuoka,JPN</item>
+        <item>Shkodër,ALB</item>
+        <item>Shreveport,Louisiana,USA</item>
+        <item>Shuangcheng,CHN</item>
+        <item>Shuangyashan,CHN</item>
+        <item>Shubra al Khaymah,EGY</item>
+        <item>Shuozhou,CHN</item>
+        <item>Sialkote,PAK</item>
+        <item>Šiauliai,LTU</item>
+        <item>Sibiu,ROU</item>
+        <item>Sibu,MYS</item>
+        <item>Sidi-bel-Abbès,DZA</item>
+        <item>Siegen,DEU</item>
+        <item>Sieverodonetsk,UKR</item>
+        <item>Siirt,TUR</item>
+        <item>Sikar,IND</item>
+        <item>Silang,Cavite,PHL</item>
+        <item>Silay City,PHL</item>
+        <item>Silchar,IND</item>
+        <item>Siliguri,IND</item>
+        <item>Simi Valley,California,USA</item>
+        <item>Sincelejo,COL</item>
+        <item>Singapore,SGP</item>
+        <item>Singkawang,IDN</item>
+        <item>Sinuiji,PRK</item>
+        <item>Sioux Falls,South Dakota,USA</item>
+        <item>Siping (city) Siping,CHN</item>
+        <item>Sirjan,IRN</item>
+        <item>Sirsa,Haryana Sirsa,IND</item>
+        <item>Sitapur,IND</item>
+        <item>Sittwe,MMR</item>
+        <item>Sivakasi,IND</item>
+        <item>Sivas,TUR</item>
+        <item>Siverek,TUR</item>
+        <item>Skikda,DZA</item>
+        <item>Skopje,MKD</item>
+        <item>Sliven,BGR</item>
+        <item>Slough,GBR</item>
+        <item>Sloviansk,UKR</item>
+        <item>Słupsk,POL</item>
+        <item>Smederevo,SRB</item>
+        <item>Smolensk,RUS</item>
+        <item>Soacha,COL</item>
+        <item>Sobral,Ceará Sobral,BRA</item>
+        <item>Sochi,RUS</item>
+        <item>Sofia,BGR</item>
+        <item>Sogamoso,COL</item>
+        <item>Soka,JPN</item>
+        <item>Solapur,IND</item>
+        <item>Soledad,Atlántico Soledad,COL</item>
+        <item>Solihull,GBR</item>
+        <item>Solikamsk,RUS</item>
+        <item>Solingen,DEU</item>
+        <item>Songkhla,THA</item>
+        <item>Songyuan,CHN</item>
+        <item>Sonipat,IND</item>
+        <item>Sorocaba,BRA</item>
+        <item>Sorsogon City,PHL</item>
+        <item>Sosnowiec,POL</item>
+        <item>Souk Ahras,DZA</item>
+        <item> Adıyaman,TUR</item>
+        <item> Afyonkarahisar,TUR</item>
+        <item> Ağrı,TUR</item>
+        <item> Amasya,TUR</item>
+        <item> Ankara,TUR</item>
+        <item> Antalya,TUR</item>
+        <item> Artvin,TUR</item>
+        <item> Aydın,TUR</item>
+        <item> Balıkesir,TUR</item>
+        <item> Bilecik,TUR</item>
+        <item> Bingöl,TUR</item>
+        <item> Bitlis,TUR</item>
+        <item> Bolu,TUR</item>
+        <item> Burdur,TUR</item>
+        <item> Çanakkale,TUR</item>
+        <item> Çankırı,TUR</item>
+        <item> Çorum,TUR</item>
+        <item> Gümüşhane,TUR</item>
+        <item> Hakkâri,TUR</item>
+        <item> Hatay,TUR</item>
+
+
+        <item> Kars,TUR</item>
+        <item> Kastamonu,TUR</item>
+
+        <item> Kırklareli,TUR</item>
+        <item> Kırşehir,TUR</item>
+        <item> Kocaeli,TUR</item>
+
+
+        <item> Mardin,TUR</item>
+        <item> Muğla,TUR</item>
+        <item> Muş,TUR</item>
+        <item> Nevşehir,TUR</item>
+        <item> Niğde,TUR</item>
+        <item> Rize,TUR</item>
+        <item> Sakarya,TUR</item>
+        <item> Sinop,TUR</item>
+
+        <item> Tekirdağ,TUR</item>
+        <item> Tokat,TUR</item>
+        <item> Trabzon,TUR</item>
+        <item> Tunceli,TUR</item>
+        <item> Uşak,TUR</item>
+        <item> Van,TUR</item>
+        <item> Yozgat,TUR</item>
+        <item> Zonguldak,TUR</item>
+        <item> Aksaray,TUR</item>
+        <item> Bayburt,TUR</item>
+        <item> Karaman,TUR</item>
+        <item> Batman,TUR</item>
+        <item> Şırnak,TUR</item>
+        <item> Bartın,TUR</item>
+        <item> Ardahan,TUR</item>
+        <item> Iğdır,TUR</item>
+        <item> Yalova,TUR</item>
+        <item> Karabük,TUR</item>
+        <item> Kilis,TUR</item>
+        <item> Düzce,TUR</item>
+
+
+
+
+    </string-array>
+</resources>
